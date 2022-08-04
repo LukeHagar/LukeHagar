@@ -15,7 +15,7 @@ I have created tools in every role I have had from a PowerShell based Automated 
 - 📫 How to reach me: Lukeslakemail@gmail.com
 
 Projects:  
-⚓ [Anchor](https://github.com/LukeHagar/Anchor "Anchor Chrome Extension")     
+⚓ [Anchor](https://github.com/LukeHagar/Anchor "Anchor Chrome Extension") <img src="https://img.shields.io/lgtm/grade/javascript/github/LukeHagar/Anchor" />  
 🕸️ [plex-api-oauth](https://github.com/LukeHagar/plex-api-oauth "Plex API JavaScript Module That Supports OAuth") <img src="https://img.shields.io/lgtm/grade/javascript/github/LukeHagar/plex-api-oauth" /> <img src="https://img.shields.io/npm/dw/plex-api-oauth" />  
 🎵 [Warden](https://github.com/LukeHagar/Warden "An Electron and React based Plex Music Player")   
 
