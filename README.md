@@ -12,6 +12,6 @@ I have created tools in every role I have had from a PowerShell based Automated 
 Projects:  
 ⚓ [Anchor](https://github.com/luke-hagar-sp/Anchor "Anchor Chrome Extension")          
 
-Links:  
-🪴[LukeHagar.com](https://lukehagar.com/ "Luke Hagar's Website")          
-🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")         
+Links:   
+🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
+🪴[LukeHagar.com](https://lukehagar.com/ "Luke Hagar's Website")  
