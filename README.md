@@ -24,5 +24,4 @@ Links:
 
 
 <img src="https://activity-graph.herokuapp.com/graph?username=lukehagar&theme=minimal" />
-<img src="https://github-readme-stats.vercel.app/api?username=lukehagar" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehagar" />
+<img src="https://github-readme-stats.vercel.app/api?username=lukehagar" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehagar" />
