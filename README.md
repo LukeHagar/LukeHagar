@@ -10,7 +10,9 @@ I have created tools in every role I have had from a PowerShell based Automated 
 - 📫 How to reach me: Lukeslakemail@gmail.com
 
 Projects:  
-⚓ [Anchor](https://github.com/LukeHagar/Anchor "Anchor Chrome Extension")          
+⚓ [Anchor](https://github.com/LukeHagar/Anchor "Anchor Chrome Extension")     
+🕸️ [plex-api-oauth](https://github.com/LukeHagar/plex-api-oauth "Plex API JavaScript Module That Supports OAuth")   
+🎵 [Warden](https://github.com/LukeHagar/Warden "An Electron and React based Plex Music Player")   
 
 Links:   
 🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
