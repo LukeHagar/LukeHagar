@@ -9,6 +9,9 @@ I have created tools in every role I have had from a PowerShell based Automated 
 - 🤔 I’m looking to help with JavaScript Audio/Video Modules and Audio Visualizers
 - 📫 How to reach me: Lukeslakemail@gmail.com
 
+Projects:
 ⚓ [Anchor](https://github.com/luke-hagar-sp/Anchor "Anchor Chrome Extension")          
+
+Links:
 🪴[LukeHagar.com](https://lukehagar.com/ "Luke Hagar's Website")          
 🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")         
