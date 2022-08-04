@@ -2,6 +2,8 @@
 
 I have created tools in every role I have had from a PowerShell based Automated Active Directory group membership reporting tool to a Full Chrome extension written in react for cloud application troubleshooting 
 
+<img src="https://img.shields.io/badge/Electron-2B2E3A?style=for-the-badge&logo=electron&logoColor=9FEAF9" />
+
 - 😄 Pronouns: He/Him
 - 💬 Ask me about Cloud Applications and APIs
 - 🔭 I’m currently working on an Electron and React Media Player Application using the Plex API
