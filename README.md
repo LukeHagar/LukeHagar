@@ -13,7 +13,7 @@ I have created tools in every role I have had from a PowerShell based Automated 
 - 🤔 I’m looking to help with JavaScript Audio/Video Modules and Audio Visualizers
 - 📫 How to reach me: Lukeslakemail@gmail.com
 
-Projects:
+Projects:  
 ⚓ [Anchor](https://github.com/LukeHagar/Anchor "Anchor Chrome Extension")     
 🕸️ [plex-api-oauth](https://github.com/LukeHagar/plex-api-oauth "Plex API JavaScript Module That Supports OAuth")   
 🎵 [Warden](https://github.com/LukeHagar/Warden "An Electron and React based Plex Music Player")   
