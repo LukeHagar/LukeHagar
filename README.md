@@ -3,8 +3,7 @@
 I have created tools in every role I have had from a PowerShell based Automated Active Directory group membership reporting tool to a Full Chrome extension written in react for cloud application troubleshooting
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukehagar&theme=vue" />  
-<img src="https://github-readme-stats.vercel.app/api?username=lukehagar" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehagar" />
+<img src="https://github-readme-stats.vercel.app/api?username=lukehagar" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lukehagar" />
 
 Languages:  
 <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /><img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
