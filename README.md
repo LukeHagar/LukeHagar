@@ -18,7 +18,7 @@ Projects:
 ⚓ [Anchor](https://github.com/LukeHagar/Anchor "Anchor Chrome Extension") <img src="https://img.shields.io/lgtm/grade/javascript/github/LukeHagar/Anchor" />  
 🕸️ [plex-api-oauth](https://github.com/LukeHagar/plex-api-oauth "Plex API JavaScript Module That Supports OAuth") <img src="https://img.shields.io/lgtm/grade/javascript/github/LukeHagar/plex-api-oauth" /> <img src="https://img.shields.io/npm/dw/plex-api-oauth" />  
 🎵 [Warden](https://github.com/LukeHagar/Warden "An Electron and React based Plex Music Player") <img src="https://img.shields.io/lgtm/grade/javascript/github/LukeHagar/Warden" />  
- [LukeHagar.com]https://github.com/LukeHagar/LukeHagar.com "My Website Repo - Hosted on Vercel") <img src="https://img.shields.io/lgtm/grade/javascript/github/LukeHagar/LukeHagar.com" />
+ [LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com "My Website Repo - Hosted on Vercel") <img src="https://img.shields.io/lgtm/grade/javascript/github/LukeHagar/LukeHagar.com" />
 
 Links:   
 🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
