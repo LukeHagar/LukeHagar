@@ -1,9 +1,6 @@
 ![Luke's Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehagar&show_icons=true&theme=algolia)
 ![Luke's Work GitHub stats](https://github-readme-stats.vercel.app/api?username=luke-hagar-sp&show_icons=true&theme=algolia)
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukehagar&theme=vue" />  
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luke-hagar-sp&theme=vue" />  
-
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter" />
 
 I have created tools in every role I have had from a PowerShell based Automated Active Directory group membership reporting tool to a Full Chrome extension written in react for cloud application troubleshooting
