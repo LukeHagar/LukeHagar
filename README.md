@@ -22,7 +22,3 @@ Projects:
 Links:   
 🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
 🪴[LukeHagar.com](https://lukehagar.com/ "Luke Hagar's Website")  
-
-
-<img src="https://activity-graph.herokuapp.com/graph?username=lukehagar&theme=minimal" />  
-<img src="https://activity-graph.herokuapp.com/graph?username=luke-hagar-sp&theme=minimal" />  
