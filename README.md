@@ -1,7 +1,7 @@
 ![Luke's Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehagar&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukehagar)](https://github.com/lukehagar/)
 ![Luke's Work GitHub stats](https://github-readme-stats.vercel.app/api?username=luke-hagar-sp&show_icons=true&theme=algolia)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-hagar-sp)](https://github.com/luke-hagar-sp/)
+[![Top Personal Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lukehagar)](https://github.com/lukehagar/)
+[![Top Work Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luke-hagar-sp)](https://github.com/luke-hagar-sp/)
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter" />
 
