@@ -1,4 +1,5 @@
-![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehagar&show_icons=true&theme=dark)
+![Luke's Personal GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehagar&show_icons=true&theme=algolia)
+![Luke's Work GitHub stats](https://github-readme-stats.vercel.app/api?username=luke-hagar-sp&show_icons=true&theme=algolia)
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukehagar&theme=vue" />  
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luke-hagar-sp&theme=vue" />  
