@@ -5,6 +5,8 @@
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter" />
 
+[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=LukeHagar)](https://github.com/anuraghazra/github-readme-stats)
+
 Links:   
 🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
 🪴[LukeHagar.com](https://lukehagar.com/ "Luke Hagar's Website")  
