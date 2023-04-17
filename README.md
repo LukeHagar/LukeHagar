@@ -6,5 +6,5 @@
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter" />
 
 Links:   
-🔗[Linked In](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
+🔗[LinkedIn](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
 🪴[LukeHagar.com](https://lukehagar.com/ "Luke Hagar's Website")  
