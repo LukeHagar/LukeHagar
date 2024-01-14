@@ -1,3 +1,10 @@
+<div align="center">
+  <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+   <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+   <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+   <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+</div>
+
 ### 👋 Hi there, my name is Luke
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter&count_bg=%2384A1FF&title_bg=%23445DD3&icon=mocha.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
@@ -62,13 +69,6 @@
 - [jorgerdz](https://github.com/jorgerdz)
 - [CarlosRangel17](https://github.com/CarlosRangel17)
 - [mscreativo](https://github.com/mscreativo)
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-   <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-   <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-   <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-</div>
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
