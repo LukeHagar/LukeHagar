@@ -1,5 +1,3 @@
-[![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehagar)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align="center">
    <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
    <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/languages.svg#gh-dark-mode-only">
