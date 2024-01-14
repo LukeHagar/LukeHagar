@@ -15,7 +15,7 @@
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .OccurredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 🌱 My latest projects
@@ -25,12 +25,12 @@
 
 #### 📜 My recent Dev posts
 {{range rss "https://dev.to/feed/lukehagar" 5}}
-- [{{.Title}}]({{.URL}}) ({{humanize .PublishedAt}})
+- [{{.Title}}]({{.URL}})
 {{- end}}
 
 #### ⭐ Recent Stars
 {{range recentStars 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}} ({{humanize .StarredAt}})
+- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
 #### 👯 Check out some of my recent followers
