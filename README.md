@@ -62,7 +62,6 @@
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) -  (1 week ago)
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) -  (1 week ago)
 
-
 #### 👯 Check out some of my recent followers
 
 - [dannybloomfield](https://github.com/dannybloomfield)
@@ -70,10 +69,6 @@
 - [jorgerdz](https://github.com/jorgerdz)
 - [CarlosRangel17](https://github.com/CarlosRangel17)
 - [mscreativo](https://github.com/mscreativo)
-
-#### 💬 Feedback
-
-Say Hello, I don't bite!
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
