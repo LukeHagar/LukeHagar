@@ -1,5 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+   [![Luke's GitHub stats](https://github-readme-stats.vercel.app/api?username=lukehagar)](https://github.com/anuraghazra/github-readme-stats)
+   <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
    <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/languages.svg#gh-dark-mode-only">
    <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/overview.svg#gh-dark-mode-only">
    <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/languages.svg#gh-dark-mode-only">
@@ -51,6 +52,7 @@
 
 #### ⭐ Recent Stars
 
+- [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes (today)
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity (4 days ago)
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK (1 week ago)
 - [LukeHagar/ubiquitous-journey](https://github.com/LukeHagar/ubiquitous-journey) - Notes from GitHub Universe 2023 (1 week ago)
@@ -60,7 +62,6 @@
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK (1 week ago)
 - [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server (1 week ago)
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK (1 week ago)
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
 
