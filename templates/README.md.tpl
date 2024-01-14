@@ -8,10 +8,10 @@
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter&count_bg=%2384A1FF&title_bg=%23445DD3&icon=mocha.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
 
 #### 📫 Here are some of my pages
-- Personal site: https://lukehagar.com/
-- LinkedIn: https://www.linkedin.com/in/lukehagar/
-- Work GitHub: https://github.com/luke-hagar-sp
-- Dev: https://dev.to/lukehagar
+- [My Personal site](https://lukehagar.com/)
+- [LinkedIn](https://www.linkedin.com/in/lukehagar/)
+- [My work GitHub Account](https://github.com/luke-hagar-sp)
+- [Dev](https://dev.to/lukehagar)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
