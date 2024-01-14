@@ -17,27 +17,27 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) -  (1 day ago)
+- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation (1 day ago)
 - [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application (2 days ago)
 - [LukeHagar/plex-sdk-docs](https://github.com/LukeHagar/plex-sdk-docs) - Plex API SDK Docs (2 days ago)
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity (4 days ago)
-- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) -  (6 days ago)
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) -  (1 week ago)
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) -  (1 week ago)
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) -  (1 week ago)
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification (6 days ago)
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK (1 week ago)
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK (1 week ago)
+- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK (1 week ago)
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton (1 week ago)
-- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) -  (1 week ago)
+- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site (1 week ago)
 
 #### 🌱 My latest projects
 
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
 - [LukeHagar/discoursejs](https://github.com/LukeHagar/discoursejs) - Discourse TS/JS SDK
 - [LukeHagar/plex-sdk-docs](https://github.com/LukeHagar/plex-sdk-docs) - Plex API SDK Docs
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - 
-- [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - 
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - 
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - 
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - 
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 - [LukeHagar/ubiquitous-journey](https://github.com/LukeHagar/ubiquitous-journey) - Notes from GitHub Universe 2023
 
@@ -52,14 +52,14 @@
 #### ⭐ Recent Stars
 
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity (4 days ago)
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) -  (1 week ago)
+- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK (1 week ago)
 - [LukeHagar/ubiquitous-journey](https://github.com/LukeHagar/ubiquitous-journey) - Notes from GitHub Universe 2023 (1 week ago)
 - [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application (1 week ago)
-- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) -  (1 week ago)
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) -  (1 week ago)
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) -  (1 week ago)
-- [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) -  (1 week ago)
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) -  (1 week ago)
+- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site (1 week ago)
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK (1 week ago)
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK (1 week ago)
+- [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server (1 week ago)
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK (1 week ago)
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) -  (1 week ago)
 
 #### 👯 Check out some of my recent followers
