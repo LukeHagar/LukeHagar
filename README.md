@@ -5,13 +5,15 @@
    <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/languages.svg#gh-dark-mode-only">
 </div>
 
-### Hi there 👋
+### Hi there, my name is Luke 👋
 
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter" />
 
-Links:   
-🔗[LinkedIn](https://www.linkedin.com/in/lukehagar/ "Luke Hagar's LinkedIn")  
-🪴[LukeHagar.com](https://lukehagar.com/ "Luke Hagar's Website")  
+#### 📫 Here are some of my pages
+- Personal site: https://lukehagar.com/
+- LinkedIn: https://www.linkedin.com/in/lukehagar/
+- Work GitHub: https://github.com/luke-hagar-sp
+- Dev: https://dev.to/lukehagar
 
 #### 👷 Check out what I'm currently working on
 
@@ -39,36 +41,13 @@ Links:
 - [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 - [LukeHagar/ubiquitous-journey](https://github.com/LukeHagar/ubiquitous-journey) - Notes from GitHub Universe 2023
 
-#### 🔭 Latest releases I've contributed to
-
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) ([v0.3.3](https://github.com/LukeHagar/plexjs/releases/tag/v0.3.3), 4 days ago) - 
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) ([v0.0.2](https://github.com/LukeHagar/plexgo/releases/tag/v0.0.2), 1 week ago) - 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) ([@skeletonlabs/skeleton@2.7.0](https://github.com/skeletonlabs/skeleton/releases/tag/%40skeletonlabs/skeleton%402.7.0), 1 week ago) - The UI toolkit for Svelte and Tailwind.
-
-#### 🔨 My recent Pull Requests
-
-- [Delete .devcontainer directory](https://github.com/LukeHagar/plexjs/pull/14) on [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) (3 weeks ago)
-- [liblab SDK update](https://github.com/LukeHagar/plexjava/pull/4) on [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) (1 month ago)
-- [liblab SDK update](https://github.com/LukeHagar/plexjs/pull/13) on [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) (1 month ago)
-- [liblab SDK update](https://github.com/LukeHagar/plexpy/pull/4) on [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) (1 month ago)
-- [Update README.md](https://github.com/sailpoint-oss/sailpoint-cli/pull/123) on [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) (1 month ago)
-- [Full Express backend implementation](https://github.com/sailpoint-oss/idn-admin-console/pull/9) on [sailpoint-oss/idn-admin-console](https://github.com/sailpoint-oss/idn-admin-console) (1 month ago)
-- [liblab SDK update](https://github.com/LukeHagar/plexjava/pull/3) on [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) (1 month ago)
-- [liblab SDK update](https://github.com/LukeHagar/plexjs/pull/12) on [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) (1 month ago)
-- [liblab SDK update](https://github.com/LukeHagar/plexpy/pull/3) on [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) (1 month ago)
-- [Downstream Additions](https://github.com/LukeHagar/sveltekit-extension-template/pull/3) on [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) (2 months ago)
-
-#### 📜 My recent blog posts
+#### 📜 My recent Dev posts
 
 - [Building a world-class suite of SDKs is easy with Speakeasy](https://dev.to/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba) (4 days ago)
 - [Writing better Cobra CLI help messages with glamour](https://dev.to/lukehagar/writing-better-cobra-cli-help-messages-with-glamour-1525) (2 months ago)
 - [Scraping Archives of Nethys for fun and profit](https://dev.to/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3) (7 months ago)
 - [Using Vercel Analytics with SvelteKit](https://dev.to/lukehagar/using-vercel-analytics-with-sveltekit-381j) (7 months ago)
 - [Building a Chrome Extension with SvelteKit](https://dev.to/lukehagar/building-a-chrome-extension-with-sveltekit-3kb) (7 months ago)
-
-#### 📓 Gists I wrote
-
-- [](https://gist.github.com/288eb93378089b9af5cb54ad0e57642a) (2 years ago)
 
 #### ⭐ Recent Stars
 
@@ -83,8 +62,6 @@ Links:
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) -  (1 week ago)
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) -  (1 week ago)
 
-#### ❤️ These awesome people sponsor me (thank you!)
-
 
 #### 👯 Check out some of my recent followers
 
@@ -97,12 +74,6 @@ Links:
 #### 💬 Feedback
 
 Say Hello, I don't bite!
-
-#### 📫 How to reach me
-
-- Twitter: https://twitter.com/...
-- Fediverse: https://mastodon.social/@...
-- Blog: https://...
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
