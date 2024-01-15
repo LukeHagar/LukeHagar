@@ -15,16 +15,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LukeHagar/discoursejs](https://github.com/LukeHagar/discoursejs) - Discourse TS/JS SDK
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
-- [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 - [LukeHagar/plex-sdk-docs](https://github.com/LukeHagar/plex-sdk-docs) - Plex API SDK Docs
+- [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
-- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 
 #### 🌱 My latest projects
 
