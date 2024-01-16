@@ -10,8 +10,9 @@
 #### 📫 Here are some of my pages
 - [My Personal site](https://lukehagar.com/)
 - [LinkedIn](https://www.linkedin.com/in/lukehagar/)
-- [My work GitHub Account](https://github.com/luke-hagar-sp)
 - [Dev](https://dev.to/lukehagar)
+- [Plex API Documentation](https://plexapi.dev)
+- [My work GitHub Account](https://github.com/luke-hagar-sp)
 
 #### 👷 Check out what I'm currently working on
 {{range recentContributions 10}}
