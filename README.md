@@ -16,6 +16,7 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/discoursejs](https://github.com/LukeHagar/discoursejs) - Discourse TS/JS SDK
@@ -23,9 +24,8 @@
 - [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 
 #### 🌱 My latest projects
 
