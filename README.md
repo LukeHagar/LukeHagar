@@ -16,14 +16,14 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
+- [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
+- [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/plex-api-oauth](https://github.com/LukeHagar/plex-api-oauth) - An NPM Module designed to make Plex Media Server and plex.tv API calls easier to implement in JavaScript and React projects
 - [gethomepage/homepage](https://github.com/gethomepage/homepage) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
 - [LukeHagar/discoursejs](https://github.com/LukeHagar/discoursejs) - Discourse TS/JS SDK
-- [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 - [LukeHagar/plex-sdk-docs](https://github.com/LukeHagar/plex-sdk-docs) - Plex API SDK Docs
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 
