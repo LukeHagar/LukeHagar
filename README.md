@@ -25,7 +25,7 @@
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - 
 - [LukeHagar/docs](https://github.com/LukeHagar/docs) - 
 - [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
-- [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
+- [LukeHagar/plex-api-oauth](https://github.com/LukeHagar/plex-api-oauth) - An NPM Module designed to make Plex Media Server and plex.tv API calls easier to implement in JavaScript and React projects
 
 #### 🌱 My latest projects
 
