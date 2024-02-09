@@ -63,11 +63,11 @@
 
 #### 👯 Check out some of my recent followers
 
+- [simplesagar](https://github.com/simplesagar)
 - [marclave](https://github.com/marclave)
 - [dannybloomfield](https://github.com/dannybloomfield)
 - [ImaniAN](https://github.com/ImaniAN)
 - [jorgerdz](https://github.com/jorgerdz)
-- [CarlosRangel17](https://github.com/CarlosRangel17)
 
 Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
