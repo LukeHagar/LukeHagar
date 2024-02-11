@@ -50,6 +50,8 @@
 
 #### ⭐ Recent Stars
 
+- [Meldiron/appwrite-ssr-svelte-kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) - Appwrite Loves Svelte Kit! Demo application with authorized server-side and client-side rendering.
+- [Meldiron/appwrite-ssr-remix](https://github.com/Meldiron/appwrite-ssr-remix) - Appwrite Loves Remix! Demo application with authorized server-side and client-side rendering.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
 - [svecosystem/mode-watcher](https://github.com/svecosystem/mode-watcher) - Simple light/dark mode management for SvelteKit apps. 🌑 ←→ ☀️
 - [twoslashes/twoslash](https://github.com/twoslashes/twoslash) - Markup for generating rich type information in your documentations ahead of time.
@@ -58,8 +60,6 @@
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/ubiquitous-journey](https://github.com/LukeHagar/ubiquitous-journey) - Notes from GitHub Universe 2023
-- [LukeHagar/sveltekit-electron](https://github.com/LukeHagar/sveltekit-electron) - A full implementation of an adpater-node built sveltekit app nested inside an electron application
 
 #### 👯 Check out some of my recent followers
 
