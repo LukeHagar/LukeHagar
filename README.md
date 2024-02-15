@@ -16,19 +16,20 @@
 
 #### 👷 Check out what I'm currently working on
 
-- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
 - [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
-- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) - Interactions, streamlined. ⌨️
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
+- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - 
-- [LukeHagar/docs](https://github.com/LukeHagar/docs) - 
 
 #### 🌱 My latest projects
 
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
 - [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [LukeHagar/docs](https://github.com/LukeHagar/docs) - 
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
@@ -38,7 +39,6 @@
 - [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server
 - [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 
 #### 📜 My recent Dev posts
 
