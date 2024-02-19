@@ -17,14 +17,14 @@
 #### 👷 Check out what I'm currently working on
 
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
-- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) - Interactions, streamlined. ⌨️
-- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
+- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - 
 
 #### 🌱 My latest projects
