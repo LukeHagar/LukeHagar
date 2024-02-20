@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [Meldiron/appwrite-ssr-svelte-kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) - Appwrite Loves Svelte Kit! Demo application with authorized server-side and client-side rendering.
 - [Meldiron/appwrite-ssr-remix](https://github.com/Meldiron/appwrite-ssr-remix) - Appwrite Loves Remix! Demo application with authorized server-side and client-side rendering.
 - [appwrite/appwrite](https://github.com/appwrite/appwrite) - Build like a team of hundreds_
@@ -59,7 +60,6 @@
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 
 #### 👯 Check out some of my recent followers
 
