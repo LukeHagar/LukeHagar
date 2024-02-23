@@ -16,16 +16,16 @@
 
 #### 👷 Check out what I'm currently working on
 
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
+- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
-- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
-- [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) - Interactions, streamlined. ⌨️
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
-- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
-- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
+- [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) - Interactions, streamlined. ⌨️
 
 #### 🌱 My latest projects
 
@@ -50,6 +50,7 @@
 
 #### ⭐ Recent Stars
 
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [Meldiron/appwrite-ssr-svelte-kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) - Appwrite Loves Svelte Kit! Demo application with authorized server-side and client-side rendering.
 - [Meldiron/appwrite-ssr-remix](https://github.com/Meldiron/appwrite-ssr-remix) - Appwrite Loves Remix! Demo application with authorized server-side and client-side rendering.
@@ -59,7 +60,6 @@
 - [anymaniax/orval](https://github.com/anymaniax/orval) - orval is able to generate client with appropriate type-signatures (TypeScript) from any valid OpenAPI v3 or Swagger v2 specification, either in yaml or json formats. 🍺
 - [firecamp-dev/firecamp](https://github.com/firecamp-dev/firecamp) - Developer-first OpenSource API DevTool, Postman/Insomnia alternative.
 - [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats) - :zap: Dynamically generated stats for your github readmes
-- [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
 
 #### 👯 Check out some of my recent followers
 
