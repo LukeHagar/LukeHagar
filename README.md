@@ -19,12 +19,12 @@
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website
-- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
+- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
-- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
-- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
+- [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 
 #### 🌱 My latest projects
@@ -33,12 +33,12 @@
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
 - [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
-- [LukeHagar/docs](https://github.com/LukeHagar/docs) - 
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
 - [LukeHagar/discoursejs](https://github.com/LukeHagar/discoursejs) - Discourse TS/JS SDK
 - [LukeHagar/plex-sdk-docs](https://github.com/LukeHagar/plex-sdk-docs) - Plex API SDK Docs
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 
 #### 📜 My recent Dev posts
 
