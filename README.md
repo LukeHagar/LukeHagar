@@ -21,7 +21,7 @@
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
-- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
 - [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
@@ -31,7 +31,7 @@
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
-- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
 - [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [LukeHagar/docs](https://github.com/LukeHagar/docs) - 
 - [LukeHagar/discourse-api-spec](https://github.com/LukeHagar/discourse-api-spec) - Discourse API Spec, copied and modified for validity
@@ -52,7 +52,7 @@
 
 - [microsoft/kiota](https://github.com/microsoft/kiota) - OpenAPI based HTTP Client code generator
 - [huntabyte/vaul-svelte](https://github.com/huntabyte/vaul-svelte) - An unstyled drawer component for Svelte.
-- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - 
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
 - [Meldiron/appwrite-ssr-svelte-kit](https://github.com/Meldiron/appwrite-ssr-svelte-kit) - Appwrite Loves Svelte Kit! Demo application with authorized server-side and client-side rendering.
 - [Meldiron/appwrite-ssr-remix](https://github.com/Meldiron/appwrite-ssr-remix) - Appwrite Loves Remix! Demo application with authorized server-side and client-side rendering.
