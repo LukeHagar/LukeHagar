@@ -10,35 +10,40 @@
 #### 📫 Here are some of my pages
 - [My Personal site](https://lukehagar.com/)
 - [LinkedIn](https://www.linkedin.com/in/lukehagar/)
-- [Dev](https://dev.to/lukehagar)
-- [Plex API Documentation](https://plexapi.dev)
-- [My work GitHub Account](https://github.com/luke-hagar-sp)
+- [Dev.to](https://dev.to/lukehagar)
 
-#### 👷 Check out what I'm currently working on
-{{range recentContributions 10}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
-{{- end}}
+#### My Projects
 
-#### 🌱 My latest projects
-{{range recentRepos 10}}
-- [{{.Name}}]({{.URL}}) - {{.Description}}
-{{- end}}
+{{with repo "LukeHagar" "stats-action"}}
+[{{.Name}}]({{.URL}})
+{{.Description}}
+{{.LastRelease.TagName}} - {{humanize .LastRelease.PublishedAt}}
+{{end}}
 
-#### 📜 My recent Dev posts
-{{range rss "https://dev.to/feed/lukehagar" 5}}
+- Plex
+   - [OpenAPI Specification](https://github.com/LukeHagar/plex-api-spec)
+   - [API Documentation](https://github.com/LukeHagar/plex-docs) [Site](https://plexapi.dev)
+   - [JS/TS SDK](https://github.com/LukeHagar/plexjs) [NPM](https://www.npmjs.com/package/@lukehagar/plexjs)
+   - [Python SDK](https://github.com/LukeHagar/plexpy) [PyPi](https://pypi.org/project/plex-api-client/)
+
+- [OpenAPI Schema Generator](https://oas-def-gen.lukehagar.com)
+
+#### 📜 Some of my recent Dev.to posts
+{{range rss "https://dev.to/feed/lukehagar" 10}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-#### ⭐ Recent Stars
-{{range recentStars 10}}
+#### 👷 Recent Contributions
+{{range recentContributions 20}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
-#### 👯 Check out some of my recent followers
-{{range followers 5}}
-- [{{.Login}}]({{.URL}})
-{{- end}}
+#### Recent followers
+{{range followers 10}}
+- {{.Name}} | {{.Login}}
+{{end}}
 
-Want your own self-generating profile page? Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+Want your own self-generating profile page?   
+Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
 
 <!-- comments will be preserved -->
