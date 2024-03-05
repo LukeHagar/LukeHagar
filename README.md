@@ -3,27 +3,27 @@
    <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/overview.svg#gh-dark-mode-only">
 </div>
 
-### 👋 Hi there, my name is Luke
+## 👋 Hi there, my name is Luke
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter&count_bg=%2384A1FF&title_bg=%23445DD3&icon=mocha.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
 
-#### 📫 Here are some of my pages
+## 📫 Here are some of my pages
 - [My Personal site](https://lukehagar.com/)
 - [LinkedIn](https://www.linkedin.com/in/lukehagar/)
 - [Dev.to](https://dev.to/lukehagar)
 
-#### My Projects
+## My Projects
 
-Github Profile Stats Action
+### Github Profile Stats Action
 - [Repo](https://github.com/LukeHagar/stats-action)
 - [Marketplace](https://github.com/marketplace/actions/profile-stats)
 - [Template Repo](https://github.com/LukeHagar/stats)
 
-OpenAPI Schema Generator
+### OpenAPI Schema Generator
 - [Repo](https://github.com/LukeHagar/openapi-definition-generator/)
 - [Site](https://oas-def-gen.lukehagar.com)
 
-Plex
+### Plex
 - [OpenAPI Specification](https://github.com/LukeHagar/plex-api-spec)
 - API Documentation
    - [Repo](https://github.com/LukeHagar/plex-docs) 
@@ -37,7 +37,7 @@ Plex
       - [PyPi](https://pypi.org/project/plex-api-client/)
 
 
-#### 📜 Some of my recent Dev.to posts
+### 📜 Some of my recent Dev.to posts
 
 - [Building a world-class suite of SDKs is easy with Speakeasy](https://dev.to/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
 - [Writing better Cobra CLI help messages with glamour](https://dev.to/lukehagar/writing-better-cobra-cli-help-messages-with-glamour-1525)
@@ -45,7 +45,7 @@ Plex
 - [Using Vercel Analytics with SvelteKit](https://dev.to/lukehagar/using-vercel-analytics-with-sveltekit-381j)
 - [Building a Chrome Extension with SvelteKit](https://dev.to/lukehagar/building-a-chrome-extension-with-sveltekit-3kb)
 
-#### 👷 Recent Contributions
+### 👷 Recent Contributions
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
@@ -68,27 +68,27 @@ Plex
 - [LukeHagar/discoursejs](https://github.com/LukeHagar/discoursejs) - Discourse TS/JS SDK
 - [LukeHagar/plex-sdk-docs](https://github.com/LukeHagar/plex-sdk-docs) - Plex API SDK Docs
 
-#### Recent followers
+### Recent followers
 
-- Sagar Batchu | simplesagar
+[Sagar Batchu](https://github.com/simplesagar)
 
-- Marc Laventure | marclave
+[Marc Laventure](https://github.com/marclave)
 
--  | dannybloomfield
+[](https://github.com/dannybloomfield)
 
-- Imani &#39;K!ΠG&#39; Niyigena  | ImaniAN
+[Imani &#39;K!ΠG&#39; Niyigena ](https://github.com/ImaniAN)
 
-- Jorge Rodriguez | jorgerdz
+[Jorge Rodriguez](https://github.com/jorgerdz)
 
-- Carlos Rangel | CarlosRangel17
+[Carlos Rangel](https://github.com/CarlosRangel17)
 
-- Mathias Salon | mscreativo
+[Mathias Salon](https://github.com/mscreativo)
 
-- Tom Cipriano | tomcipriani
+[Tom Cipriano](https://github.com/tomcipriani)
 
-- Ansh Bhalala | bhalalansh
+[Ansh Bhalala](https://github.com/bhalalansh)
 
-- Pete | virtuoushub
+[Pete](https://github.com/virtuoushub)
 
 
 Want your own self-generating profile page?   
