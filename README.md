@@ -54,8 +54,8 @@
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) - Interactions, streamlined. ⌨️
@@ -68,28 +68,18 @@
 - [LukeHagar/discoursejs](https://github.com/LukeHagar/discoursejs) - Discourse TS/JS SDK
 - [LukeHagar/plex-sdk-docs](https://github.com/LukeHagar/plex-sdk-docs) - Plex API SDK Docs
 
-### Recent followers
+#### 👯 Recent followers
 
-[Sagar Batchu](https://github.com/simplesagar)
-
-[Marc Laventure](https://github.com/marclave)
-
-[](https://github.com/dannybloomfield)
-
-[Imani &#39;K!ΠG&#39; Niyigena ](https://github.com/ImaniAN)
-
-[Jorge Rodriguez](https://github.com/jorgerdz)
-
-[Carlos Rangel](https://github.com/CarlosRangel17)
-
-[Mathias Salon](https://github.com/mscreativo)
-
-[Tom Cipriano](https://github.com/tomcipriani)
-
-[Ansh Bhalala](https://github.com/bhalalansh)
-
-[Pete](https://github.com/virtuoushub)
-
+- [Sagar Batchu](https://github.com/simplesagar)
+- [Marc Laventure](https://github.com/marclave)
+- [](https://github.com/dannybloomfield)
+- [Imani &#39;K!ΠG&#39; Niyigena ](https://github.com/ImaniAN)
+- [Jorge Rodriguez](https://github.com/jorgerdz)
+- [Carlos Rangel](https://github.com/CarlosRangel17)
+- [Mathias Salon](https://github.com/mscreativo)
+- [Tom Cipriano](https://github.com/tomcipriani)
+- [Ansh Bhalala](https://github.com/bhalalansh)
+- [Pete](https://github.com/virtuoushub)
 
 Want your own self-generating profile page?   
 Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
