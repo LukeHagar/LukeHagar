@@ -49,7 +49,7 @@
 
 #### 👯 Recent followers
 {{range followers 10}}
-- [{{if .Name}}{{.Name}}{{else}}{{.Login}}]({{.URL}})
+- [{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}})
 {{- end}}
 
 Want your own self-generating profile page?   
