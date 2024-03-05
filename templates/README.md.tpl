@@ -1,13 +1,15 @@
-<div align="center">
-   <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-   <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-</div>
+
 
 ## 👋 Hi there, my name is Luke
 
 <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Flukehagar1212%2Fhit-counter&count_bg=%2384A1FF&title_bg=%23445DD3&icon=mocha.svg&icon_color=%23E7E7E7&title=Views&edge_flat=false"/></a>
 
-## 📫 Here are some of my pages
+<div align="center">
+   <img src="https://raw.githubusercontent.com/lukehagar/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+   <img src="https://raw.githubusercontent.com/luke-hagar-sp/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+</div>
+
+## My pages
 - [My Personal site](https://lukehagar.com/)
 - [LinkedIn](https://www.linkedin.com/in/lukehagar/)
 - [Dev.to](https://dev.to/lukehagar)
