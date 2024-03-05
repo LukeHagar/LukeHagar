@@ -14,6 +14,16 @@
 
 #### My Projects
 
+{{with repo "muesli" "markscribe"}}
+Name: {{.Name}}
+Description: {{.Description}}
+URL: {{.URL}}
+Stars: {{.Stargazers}}
+Is Private: {{.IsPrivate}}
+Last Git Tag: {{.LastRelease.TagName}}
+Last Release: {{humanize .LastRelease.PublishedAt}}
+{{end}}
+
 {{with repo "LukeHagar" "stats-action"}}
 [{{.Name}}]({{.URL}})
 {{.Description}}
