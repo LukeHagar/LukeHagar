@@ -72,7 +72,7 @@
 
 - [Sagar Batchu](https://github.com/simplesagar)
 - [Marc Laventure](https://github.com/marclave)
-- [](https://github.com/dannybloomfield)
+- [dannybloomfield](https://github.com/dannybloomfield)
 - [Imani &#39;K!ΠG&#39; Niyigena ](https://github.com/ImaniAN)
 - [Jorge Rodriguez](https://github.com/jorgerdz)
 - [Carlos Rangel](https://github.com/CarlosRangel17)
