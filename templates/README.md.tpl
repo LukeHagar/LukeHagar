@@ -47,10 +47,10 @@
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
-### Recent followers
+#### 👯 Recent followers
 {{range followers 10}}
-[{{.Name}}]({{.URL}})
-{{end}}
+- [{{.Name}}]({{.URL}})
+{{- end}}
 
 Want your own self-generating profile page?   
 Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
