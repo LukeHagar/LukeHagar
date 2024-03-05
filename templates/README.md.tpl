@@ -14,29 +14,28 @@
 
 #### My Projects
 
-{{with repo "muesli" "markscribe"}}
-Name: {{.Name}}
-Description: {{.Description}}
-URL: {{.URL}}
-Stars: {{.Stargazers}}
-Is Private: {{.IsPrivate}}
-Last Git Tag: {{.LastRelease.TagName}}
-Last Release: {{humanize .LastRelease.PublishedAt}}
-{{end}}
+Github Profile Stats Action
+- [Repo](https://github.com/LukeHagar/stats-action)
+- [Marketplace](https://github.com/marketplace/actions/profile-stats)
+- [Template Repo](https://github.com/LukeHagar/stats)
 
-{{with repo "LukeHagar" "stats-action"}}
-[{{.Name}}]({{.URL}})
-{{.Description}}
-{{.LastRelease.TagName}} - {{humanize .LastRelease.PublishedAt}}
-{{end}}
+OpenAPI Schema Generator
+- [Repo](https://github.com/LukeHagar/openapi-definition-generator/)
+- [Site](https://oas-def-gen.lukehagar.com)
 
-- Plex
-   - [OpenAPI Specification](https://github.com/LukeHagar/plex-api-spec)
-   - [API Documentation](https://github.com/LukeHagar/plex-docs) [Site](https://plexapi.dev)
-   - [JS/TS SDK](https://github.com/LukeHagar/plexjs) [NPM](https://www.npmjs.com/package/@lukehagar/plexjs)
-   - [Python SDK](https://github.com/LukeHagar/plexpy) [PyPi](https://pypi.org/project/plex-api-client/)
+Plex
+- [OpenAPI Specification](https://github.com/LukeHagar/plex-api-spec)
+- API Documentation
+   - [Repo](https://github.com/LukeHagar/plex-docs) 
+   - [Site](https://plexapi.dev)
+- SDKs
+   - JS/TS SDK
+      - [Repo](https://github.com/LukeHagar/plexjs) 
+      - [NPM](https://www.npmjs.com/package/@lukehagar/plexjs)
+   - Python SDK
+      - [Repo](https://github.com/LukeHagar/plexpy) 
+      - [PyPi](https://pypi.org/project/plex-api-client/)
 
-- [OpenAPI Schema Generator](https://oas-def-gen.lukehagar.com)
 
 #### 📜 Some of my recent Dev.to posts
 {{range rss "https://dev.to/feed/lukehagar" 10}}
