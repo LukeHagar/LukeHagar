@@ -64,16 +64,16 @@
 
 ### 📈 Recent PRs
 
-- [Feature/homepage updates](https://github.com/sailpoint-oss/developer.sailpoint.com/pull/494) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
-- [Added SvelteKit `adapter-electron` to `packages.json`](https://github.com/svelte-society/sveltesociety.dev/pull/591) - The Svelte Society website
-- [Added SvelteKit `adapter-appwrite` to `packages.json`](https://github.com/svelte-society/sveltesociety.dev/pull/590) - The Svelte Society website
-- [feat(plugin): Allow integrating more complex render solutions](https://github.com/alex8088/electron-vite/pull/412) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-- [docs: Corrected dead link for SST](https://github.com/sveltejs/kit/pull/11841) - web development, streamlined
-- [Corrected `hoverend` event name](https://github.com/svecosystem/svelte-interactions/pull/9) - Interactions, streamlined. ⌨️
-- [Fix: remove date time load delay](https://github.com/gethomepage/homepage/pull/2675) - A highly customizable homepage (or startpage / application dashboard) with Docker and service API integrations.
-- [Delete .devcontainer directory](https://github.com/LukeHagar/plexjs/pull/14) - 
-- [liblab SDK update](https://github.com/LukeHagar/plexjava/pull/4) - 
-- [liblab SDK update](https://github.com/LukeHagar/plexjs/pull/13) - 
+- [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com/pull/494) - Feature/homepage updates
+- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev/pull/591) - Added SvelteKit `adapter-electron` to `packages.json`
+- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev/pull/590) - Added SvelteKit `adapter-appwrite` to `packages.json`
+- [alex8088/electron-vite](https://github.com/alex8088/electron-vite/pull/412) - feat(plugin): Allow integrating more complex render solutions
+- [sveltejs/kit](https://github.com/sveltejs/kit/pull/11841) - docs: Corrected dead link for SST
+- [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions/pull/9) - Corrected `hoverend` event name
+- [gethomepage/homepage](https://github.com/gethomepage/homepage/pull/2675) - Fix: remove date time load delay
+- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs/pull/14) - Delete .devcontainer directory
+- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava/pull/4) - liblab SDK update
+- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs/pull/13) - liblab SDK update
 
 ### 👷 Recent Contributions
 
