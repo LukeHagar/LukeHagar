@@ -1,6 +1,5 @@
 <div align="center">
    <img src="https://raw.githubusercontent.com/LukeHagar/github-stats-remotion/main/out/stats.gif">
-   <img src="https://raw.githubusercontent.com/LukeHagar/github-stats-remotion/main/out/languages.gif">
 </div>
 
 ## 👋 Hi there, my name is Luke
