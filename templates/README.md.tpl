@@ -61,7 +61,7 @@
 
 ### 📈 Recent PRs
 {{range recentPullRequests 10}}
-- [{{.Title}}]({{.URL}}) - {{.Repo.Description}}
+- [{{.Repo.Title}}]({{.URL}}) - {{.Title}}
 {{- end}}
 
 ### 👷 Recent Contributions
