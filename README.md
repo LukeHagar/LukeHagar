@@ -30,26 +30,25 @@
    - [Site](https://plexapi.dev)
 - SDK Documentation
    - [Repo](https://github.com/LukeHagar/plex-sdk-docs)
-- SDKs
-   - JS/TS SDK
-      - [Repo](https://github.com/LukeHagar/plexjs) 
-      - [NPM](https://www.npmjs.com/package/@lukehagar/plexjs)
-   - Python SDK
-      - [Repo](https://github.com/LukeHagar/plexpy) 
-      - [PyPi](https://pypi.org/project/plex-api-client/)
-   - Go SDK
-      - [Repo](https://github.com/LukeHagar/plexgo)
-      - [GoDoc](https://pkg.go.dev/github.com/LukeHagar/plexgo)
-   - Ruby SDK
-      - [Repo](https://github.com/LukeHagar/plexruby)
-   - Swift SDK
-      - [Repo](https://github.com/LukeHagar/plexswift)
-   - PHP SDK
-      - [Repo](https://github.com/LukeHagar/plexphp)
-   - Java SDK
-      - [Repo](https://github.com/LukeHagar/plexjava)
-   - C# SDK
-      - [Repo](https://github.com/LukeHagar/plexcsharp)
+- JS/TS SDK
+   - [Repo](https://github.com/LukeHagar/plexjs) 
+   - [NPM](https://www.npmjs.com/package/@lukehagar/plexjs)
+- Python SDK
+   - [Repo](https://github.com/LukeHagar/plexpy) 
+   - [PyPi](https://pypi.org/project/plex-api-client/)
+- Go SDK
+   - [Repo](https://github.com/LukeHagar/plexgo)
+   - [GoDoc](https://pkg.go.dev/github.com/LukeHagar/plexgo)
+- Ruby SDK
+   - [Repo](https://github.com/LukeHagar/plexruby)
+- Swift SDK
+   - [Repo](https://github.com/LukeHagar/plexswift)
+- PHP SDK
+   - [Repo](https://github.com/LukeHagar/plexphp)
+- Java SDK
+   - [Repo](https://github.com/LukeHagar/plexjava)
+- C# SDK
+   - [Repo](https://github.com/LukeHagar/plexcsharp)
 
 
 
@@ -69,11 +68,6 @@
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev/pull/590) - Added SvelteKit `adapter-appwrite` to `packages.json`
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite/pull/412) - feat(plugin): Allow integrating more complex render solutions
 - [sveltejs/kit](https://github.com/sveltejs/kit/pull/11841) - docs: Corrected dead link for SST
-- [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions/pull/9) - Corrected `hoverend` event name
-- [gethomepage/homepage](https://github.com/gethomepage/homepage/pull/2675) - Fix: remove date time load delay
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs/pull/14) - Delete .devcontainer directory
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava/pull/4) - liblab SDK update
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs/pull/13) - liblab SDK update
 
 ### 👷 Recent Contributions
 
