@@ -71,7 +71,7 @@
 
 ### 👷 Recent Contributions
 
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - 
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profile readme
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - 
