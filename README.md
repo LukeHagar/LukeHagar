@@ -77,14 +77,14 @@
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
 - [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - 
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev) - The Svelte Society website
-- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite) - Next generation Electron build tooling based on Vite 新一代 Electron 开发构建工具，支持源代码保护
-- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
+- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [sveltejs/kit](https://github.com/sveltejs/kit) - web development, streamlined
+- [LukeHagar/appwrite-starter-function](https://github.com/LukeHagar/appwrite-starter-function) - 
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [svecosystem/svelte-interactions](https://github.com/svecosystem/svelte-interactions) - Interactions, streamlined. ⌨️
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
