@@ -71,9 +71,9 @@
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - 
 - [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - 
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
