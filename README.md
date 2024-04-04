@@ -63,11 +63,11 @@
 
 ### 📈 Recent PRs
 
+- [spec-first/connexion](https://github.com/spec-first/connexion/pull/1906) - fix: uneven quotes
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com/pull/494) - Feature/homepage updates
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev/pull/591) - Added SvelteKit `adapter-electron` to `packages.json`
 - [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev/pull/590) - Added SvelteKit `adapter-appwrite` to `packages.json`
 - [alex8088/electron-vite](https://github.com/alex8088/electron-vite/pull/412) - feat(plugin): Allow integrating more complex render solutions
-- [sveltejs/kit](https://github.com/sveltejs/kit/pull/11841) - docs: Corrected dead link for SST
 
 ### 👷 Recent Contributions
 
