@@ -75,13 +75,13 @@
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [speakeasy-sdks/exactpayments-php-sdk](https://github.com/speakeasy-sdks/exactpayments-php-sdk) - A php SDK for accessing the exactpayments-php API.
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - 
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+- [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server
+- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - 
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - 
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
-- [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
