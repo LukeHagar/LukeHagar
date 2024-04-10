@@ -63,11 +63,11 @@
 
 ### 📈 Recent PRs
 
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton/pull/2606) - Removing login filter
 - [shippo-lueders/speakeasy-playground](https://github.com/shippo-lueders/speakeasy-playground/pull/1) - Specify string over yaml date
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/599) - feat: C# non-camel case namespaces; bump pylint version to 3.1.0 in python
 - [spec-first/connexion](https://github.com/spec-first/connexion/pull/1906) - fix: uneven quotes
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com/pull/494) - Feature/homepage updates
-- [svelte-society/sveltesociety.dev](https://github.com/svelte-society/sveltesociety.dev/pull/591) - Added SvelteKit `adapter-electron` to `packages.json`
 
 ### 👷 Recent Contributions
 
