@@ -71,8 +71,8 @@
 
 ### 👷 Recent Contributions
 
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
