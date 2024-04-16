@@ -24,6 +24,7 @@
 - [Site](https://oas-def-gen.lukehagar.com)
 
 ### Plex
+- [GitHub Project](https://github.com/users/LukeHagar/projects/3)
 - [OpenAPI Specification](https://github.com/LukeHagar/plex-api-spec)
 - API Documentation [Repo](https://github.com/LukeHagar/plex-docs) [Site](https://plexapi.dev)
 - SDK Documentation [Repo](https://github.com/LukeHagar/plex-sdk-docs) [Page](https://plexapi.dev/sdk-docs)
