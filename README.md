@@ -25,32 +25,16 @@
 
 ### Plex
 - [OpenAPI Specification](https://github.com/LukeHagar/plex-api-spec)
-- API Documentation
-   - [Repo](https://github.com/LukeHagar/plex-docs) 
-   - [Site](https://plexapi.dev)
-- SDK Documentation
-   - [Repo](https://github.com/LukeHagar/plex-sdk-docs)
-- JS/TS SDK
-   - [Repo](https://github.com/LukeHagar/plexjs) 
-   - [NPM](https://www.npmjs.com/package/@lukehagar/plexjs)
-- Python SDK
-   - [Repo](https://github.com/LukeHagar/plexpy) 
-   - [PyPi](https://pypi.org/project/plex-api-client/)
-- Go SDK
-   - [Repo](https://github.com/LukeHagar/plexgo)
-   - [GoDoc](https://pkg.go.dev/github.com/LukeHagar/plexgo)
-- Ruby SDK
-   - [Repo](https://github.com/LukeHagar/plexruby)
-- Swift SDK
-   - [Repo](https://github.com/LukeHagar/plexswift)
-- PHP SDK
-   - [Repo](https://github.com/LukeHagar/plexphp)
-- Java SDK
-   - [Repo](https://github.com/LukeHagar/plexjava)
-- C# SDK
-   - [Repo](https://github.com/LukeHagar/plexcsharp)
-
-
+- API Documentation [Repo](https://github.com/LukeHagar/plex-docs) [Site](https://plexapi.dev)
+- SDK Documentation [Repo](https://github.com/LukeHagar/plex-sdk-docs) [Page](https://plexapi.dev/sdk-docs)
+- JS/TS SDK [Repo](https://github.com/LukeHagar/plexjs) [NPM](https://www.npmjs.com/package/@lukehagar/plexjs)
+- Python SDK [Repo](https://github.com/LukeHagar/plexpy) [PyPi](https://pypi.org/project/plex-api-client/)
+- Go SDK [Repo](https://github.com/LukeHagar/plexgo) [GoDoc](https://pkg.go.dev/github.com/LukeHagar/plexgo)
+- Ruby SDK [Repo](https://github.com/LukeHagar/plexruby)
+- Swift SDK [Repo](https://github.com/LukeHagar/plexswift)
+- PHP SDK [Repo](https://github.com/LukeHagar/plexphp)
+- Java SDK [Repo](https://github.com/LukeHagar/plexjava)
+- C# SDK [Repo](https://github.com/LukeHagar/plexcsharp)
 
 
 ### 📜 Some of my recent Dev.to posts
