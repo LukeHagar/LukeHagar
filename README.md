@@ -48,11 +48,11 @@
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/619) - feat: help rework (WIP)
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton/pull/2606) - Removing login filter
 - [shippo-lueders/speakeasy-playground](https://github.com/shippo-lueders/speakeasy-playground/pull/1) - Specify string over yaml date
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/599) - feat: C# non-camel case namespaces; bump pylint version to 3.1.0 in python
 - [spec-first/connexion](https://github.com/spec-first/connexion/pull/1906) - fix: uneven quotes
-- [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com/pull/494) - Feature/homepage updates
 
 ### 👷 Recent Contributions
 
