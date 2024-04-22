@@ -48,11 +48,11 @@
 
 ### 📈 Recent PRs
 
+- [schehata/api-testing](https://github.com/schehata/api-testing/pull/1) - gen.yaml updates
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/623) - feat: improved auth examples; various fixes for Java, C#, GO
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/619) - feat: help rework (WIP)
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton/pull/2606) - Removing login filter
 - [shippo-lueders/speakeasy-playground](https://github.com/shippo-lueders/speakeasy-playground/pull/1) - Specify string over yaml date
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/599) - feat: C# non-camel case namespaces; bump pylint version to 3.1.0 in python
 
 ### 👷 Recent Contributions
 
