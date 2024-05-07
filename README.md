@@ -73,9 +73,9 @@
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton) - The UI toolkit for Svelte and Tailwind.
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
 - [speakeasy-sdks/exactpayments-php-sdk](https://github.com/speakeasy-sdks/exactpayments-php-sdk) - A php SDK for accessing the exactpayments-php API.
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - 
+- [LukeHagar/plexterraform](https://github.com/LukeHagar/plexterraform) - An open source terraform provider for Plex Media Server
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 
 #### 👯 Recent followers
 
