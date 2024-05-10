@@ -56,9 +56,9 @@
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [speakeasy-sdks/bar-typescript](https://github.com/speakeasy-sdks/bar-typescript) - A typescript SDK for accessing the speakeasy-bar API.
 - [speakeasy-sdks/bar-postman](https://github.com/speakeasy-sdks/bar-postman) -  A Postman collection for accessing the speakeasy-bar API.
 - [LukeHagar/plex-postman](https://github.com/LukeHagar/plex-postman) - A Postman collection to be used with Plex Media Server
