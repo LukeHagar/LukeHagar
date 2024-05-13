@@ -79,6 +79,7 @@
 
 #### 👯 Recent followers
 
+- [Tim Sekiguchi](https://github.com/tsekiguchi)
 - [Sagar Batchu](https://github.com/simplesagar)
 - [Marc Laventure](https://github.com/marclave)
 - [dannybloomfield](https://github.com/dannybloomfield)
@@ -88,7 +89,6 @@
 - [Mathias Salon](https://github.com/mscreativo)
 - [Tom Cipriano](https://github.com/tomcipriani)
 - [Ansh Bhalala](https://github.com/bhalalansh)
-- [Pete](https://github.com/virtuoushub)
 
 Want your own self-generating profile page?   
 Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
