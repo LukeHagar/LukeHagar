@@ -79,6 +79,7 @@
 
 #### 👯 Recent followers
 
+- [Sam Morozov](https://github.com/sammorozov)
 - [Tim Sekiguchi](https://github.com/tsekiguchi)
 - [Sagar Batchu](https://github.com/simplesagar)
 - [Marc Laventure](https://github.com/marclave)
@@ -88,7 +89,6 @@
 - [Carlos Rangel](https://github.com/CarlosRangel17)
 - [Mathias Salon](https://github.com/mscreativo)
 - [Tom Cipriano](https://github.com/tomcipriani)
-- [Ansh Bhalala](https://github.com/bhalalansh)
 
 Want your own self-generating profile page?   
 Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
