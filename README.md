@@ -48,19 +48,19 @@
 
 ### 📈 Recent PRs
 
+- [etherCorps/sveltekit-og](https://github.com/etherCorps/sveltekit-og/pull/49) - Correct example usage
 - [schehata/api-testing](https://github.com/schehata/api-testing/pull/1) - gen.yaml updates
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/623) - feat: improved auth examples; various fixes for Java, C#, GO
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/619) - feat: help rework (WIP)
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton/pull/2606) - Removing login filter
-- [shippo-lueders/speakeasy-playground](https://github.com/shippo-lueders/speakeasy-playground/pull/1) - Specify string over yaml date
 
 ### 👷 Recent Contributions
 
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
-- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
-- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
-- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
+- [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
+- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
 - [speakeasy-sdks/vercel-ts](https://github.com/speakeasy-sdks/vercel-ts) - Typescript SDK for Vercel REST API
 - [speakeasy-api/homebrew-tap](https://github.com/speakeasy-api/homebrew-tap) - 
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
