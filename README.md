@@ -48,11 +48,11 @@
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/716) - update branch
 - [etherCorps/sveltekit-og](https://github.com/etherCorps/sveltekit-og/pull/49) - Correct example usage
 - [schehata/api-testing](https://github.com/schehata/api-testing/pull/1) - gen.yaml updates
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/623) - feat: improved auth examples; various fixes for Java, C#, GO
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/619) - feat: help rework (WIP)
-- [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton/pull/2606) - Removing login filter
 
 ### 👷 Recent Contributions
 
