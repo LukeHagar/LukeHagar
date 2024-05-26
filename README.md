@@ -69,11 +69,11 @@
 - [speakeasy-sdks/bar-postman](https://github.com/speakeasy-sdks/bar-postman) -  A Postman collection for accessing the speakeasy-bar API.
 - [LukeHagar/plex-postman](https://github.com/LukeHagar/plex-postman) - A Postman collection to be used with Plex Media Server
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [schehata/api-testing](https://github.com/schehata/api-testing) - 
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 
