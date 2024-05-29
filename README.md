@@ -79,6 +79,7 @@
 
 #### 👯 Recent followers
 
+- [Jacob Somer](https://github.com/jacobsomer)
 - [Sam Morozov](https://github.com/sammorozov)
 - [Tim Sekiguchi](https://github.com/tsekiguchi)
 - [Sagar Batchu](https://github.com/simplesagar)
@@ -88,7 +89,6 @@
 - [Jorge Rodriguez](https://github.com/jorgerdz)
 - [Carlos Rangel](https://github.com/CarlosRangel17)
 - [Mathias Salon](https://github.com/mscreativo)
-- [Tom Cipriano](https://github.com/tomcipriani)
 
 Want your own self-generating profile page?   
 Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
