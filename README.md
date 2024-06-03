@@ -48,11 +48,11 @@
 
 ### 📈 Recent PRs
 
+- [log10-io/log10ts](https://github.com/log10-io/log10ts/pull/6) - Flattened imports, added kind to required, added a bun test
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/716) - update branch
 - [etherCorps/sveltekit-og](https://github.com/etherCorps/sveltekit-og/pull/49) - Correct example usage
 - [schehata/api-testing](https://github.com/schehata/api-testing/pull/1) - gen.yaml updates
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/623) - feat: improved auth examples; various fixes for Java, C#, GO
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/619) - feat: help rework (WIP)
 
 ### 👷 Recent Contributions
 
