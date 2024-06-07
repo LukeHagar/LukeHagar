@@ -57,6 +57,7 @@
 ### 👷 Recent Contributions
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [speakeasy-sdks/terraform-provider-vercel](https://github.com/speakeasy-sdks/terraform-provider-vercel) - A terraform provider for the Vercel API.
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
@@ -65,17 +66,16 @@
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [speakeasy-sdks/vercel-ts](https://github.com/speakeasy-sdks/vercel-ts) - Typescript SDK for Vercel REST API
 - [speakeasy-api/homebrew-tap](https://github.com/speakeasy-api/homebrew-tap) - 
-- [speakeasy-sdks/bar-postman](https://github.com/speakeasy-sdks/bar-postman) -  A Postman collection for accessing the speakeasy-bar API.
 - [speakeasy-sdks/bar-typescript](https://github.com/speakeasy-sdks/bar-typescript) - A typescript SDK for accessing the speakeasy-bar API.
+- [speakeasy-sdks/bar-postman](https://github.com/speakeasy-sdks/bar-postman) -  A Postman collection for accessing the speakeasy-bar API.
 - [LukeHagar/plex-postman](https://github.com/LukeHagar/plex-postman) - A Postman collection to be used with Plex Media Server
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [schehata/api-testing](https://github.com/schehata/api-testing) - 
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 
 #### 👯 Recent followers
 
