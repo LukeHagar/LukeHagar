@@ -48,17 +48,17 @@
 
 ### 📈 Recent PRs
 
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec/pull/22) - Change mode
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec/pull/21) - Corrected pin response
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec/pull/19) - Adjusted Speakeasy workflow
 - [log10-io/log10ts](https://github.com/log10-io/log10ts/pull/6) - Flattened imports, added kind to required, added a bun test
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/716) - update branch
-- [etherCorps/sveltekit-og](https://github.com/etherCorps/sveltekit-og/pull/49) - Correct example usage
-- [schehata/api-testing](https://github.com/schehata/api-testing/pull/1) - gen.yaml updates
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [speakeasy-sdks/terraform-provider-vercel](https://github.com/speakeasy-sdks/terraform-provider-vercel) - A terraform provider for the Vercel API.
-- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [log10-io/log10ts](https://github.com/log10-io/log10ts) - TypeScript SDK for the Log10 platform
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
