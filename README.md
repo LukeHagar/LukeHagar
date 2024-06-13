@@ -58,6 +58,7 @@
 
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [speakeasy-sdks/terraform-provider-vercel](https://github.com/speakeasy-sdks/terraform-provider-vercel) - A terraform provider for the Vercel API.
 - [log10-io/log10ts](https://github.com/log10-io/log10ts) - TypeScript SDK for the Log10 platform
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
@@ -72,10 +73,9 @@
 - [speakeasy-sdks/bar-typescript](https://github.com/speakeasy-sdks/bar-typescript) - A typescript SDK for accessing the speakeasy-bar API.
 - [LukeHagar/plex-postman](https://github.com/LukeHagar/plex-postman) - A Postman collection to be used with Plex Media Server
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 
 #### 👯 Recent followers
 
