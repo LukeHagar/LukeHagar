@@ -40,11 +40,11 @@
 
 ### 📜 Some of my recent Dev.to posts
 
+- [The next generation of GitHub profile stats](https://dev.to/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
 - [Building a world-class suite of SDKs is easy with Speakeasy](https://dev.to/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
 - [Writing better Cobra CLI help messages with glamour](https://dev.to/lukehagar/writing-better-cobra-cli-help-messages-with-glamour-1525)
 - [Scraping Archives of Nethys for fun and profit](https://dev.to/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3)
 - [Using Vercel Analytics with SvelteKit](https://dev.to/lukehagar/using-vercel-analytics-with-sveltekit-381j)
-- [Building a Chrome Extension with SvelteKit](https://dev.to/lukehagar/building-a-chrome-extension-with-sveltekit-3kb)
 
 ### 📈 Recent PRs
 
@@ -63,18 +63,18 @@
 - [LukeHagar/stats-action](https://github.com/LukeHagar/stats-action) - A github action to grab github stats for further processing
 - [speakeasy-api/openapi-reference-documentation](https://github.com/speakeasy-api/openapi-reference-documentation) - Best in class OpenAPI reference documentation
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [clerk/clerk-sdk-java](https://github.com/clerk/clerk-sdk-java) - 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [speakeasy-sdks/terraform-provider-vercel](https://github.com/speakeasy-sdks/terraform-provider-vercel) - A terraform provider for the Vercel API.
 - [log10-io/log10ts](https://github.com/log10-io/log10ts) - TypeScript SDK for the Log10 platform
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
 - [etherCorps/sveltekit-og](https://github.com/etherCorps/sveltekit-og) - Generate Open Graph Images dynamically from HTML/CSS without a browser in SvelteKit
-- [speakeasy-api/sdk-hooks](https://github.com/speakeasy-api/sdk-hooks) - Examples of SDK hooks
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
+- [speakeasy-api/sdk-hooks](https://github.com/speakeasy-api/sdk-hooks) - Examples of SDK hooks
 - [speakeasy-sdks/vercel-ts](https://github.com/speakeasy-sdks/vercel-ts) - Typescript SDK for Vercel REST API
 - [speakeasy-api/homebrew-tap](https://github.com/speakeasy-api/homebrew-tap) - 
-- [speakeasy-sdks/bar-typescript](https://github.com/speakeasy-sdks/bar-typescript) - A typescript SDK for accessing the speakeasy-bar API.
 - [speakeasy-sdks/bar-postman](https://github.com/speakeasy-sdks/bar-postman) -  A Postman collection for accessing the speakeasy-bar API.
+- [speakeasy-sdks/bar-typescript](https://github.com/speakeasy-sdks/bar-typescript) - A typescript SDK for accessing the speakeasy-bar API.
 - [LukeHagar/plex-postman](https://github.com/LukeHagar/plex-postman) - A Postman collection to be used with Plex Media Server
 
 #### 👯 Recent followers
