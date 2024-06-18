@@ -79,6 +79,7 @@
 
 #### 👯 Recent followers
 
+- [anhbtc6868](https://github.com/anhbtc)
 - [Michael Demarais](https://github.com/mikedemarais)
 - [Jacob Somer](https://github.com/jacobsomer)
 - [Sam Morozov](https://github.com/sammorozov)
@@ -88,7 +89,6 @@
 - [dannybloomfield](https://github.com/dannybloomfield)
 - [Imani &#39;K!ΠG&#39; Niyigena ](https://github.com/ImaniAN)
 - [Jorge Rodriguez](https://github.com/jorgerdz)
-- [Carlos Rangel](https://github.com/CarlosRangel17)
 
 Want your own self-generating profile page?   
 Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
