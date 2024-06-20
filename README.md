@@ -8,9 +8,11 @@
 
 
 ## My pages
-- [My Personal site](https://lukehagar.com/)
+- [My profile site](https://lukehagar.com/)
 - [LinkedIn](https://www.linkedin.com/in/lukehagar/)
 - [Dev.to](https://dev.to/lukehagar)
+- [My Bento](https://bento.me/lukehagar)
+- [OpenAPIGuy](https://openapiguy.dev)
 
 ## My Projects
 
