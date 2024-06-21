@@ -48,11 +48,11 @@
 
 ### 📈 Recent PRs
 
+- [log10-io/log10ts](https://github.com/log10-io/log10ts/pull/10) - fix: OpenAI API specification to unify enums and clean up names
 - [clerk/clerk-sdk-java](https://github.com/clerk/clerk-sdk-java/pull/2) - Commented out pagination extension on organizations, sessions, and users
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec/pull/22) - Change mode
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec/pull/21) - Corrected pin response
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec/pull/19) - Adjusted Speakeasy workflow
-- [log10-io/log10ts](https://github.com/log10-io/log10ts/pull/6) - Flattened imports, added kind to required, added a bun test
 
 ### 👷 Recent Contributions
 
