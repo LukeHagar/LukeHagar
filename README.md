@@ -79,6 +79,7 @@
 
 #### 👯 Recent followers
 
+- [Marc Hershey](https://github.com/marchershey)
 - [anhbtc6868](https://github.com/anhbtc)
 - [Michael Demarais](https://github.com/mikedemarais)
 - [Jacob Somer](https://github.com/jacobsomer)
@@ -88,7 +89,6 @@
 - [Marc Laventure](https://github.com/marclave)
 - [dannybloomfield](https://github.com/dannybloomfield)
 - [Imani &#39;K!ΠG&#39; Niyigena ](https://github.com/ImaniAN)
-- [Jorge Rodriguez](https://github.com/jorgerdz)
 
 Want your own self-generating profile page?   
 Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
