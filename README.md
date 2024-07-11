@@ -27,6 +27,7 @@ A GitHub Action to generate a simple JSON file containing your GitHub profiles s
 - [Repo](https://github.com/LukeHagar/stats-action)
 - [Marketplace Action](https://github.com/marketplace/actions/profile-stats)
 - [Template Repo](https://github.com/LukeHagar/stats)
+- [Graphic generation repo](https://github.com/LukeHagar/github-stats-remotion)
 
 ### OpenAPI Schema Generator
 
