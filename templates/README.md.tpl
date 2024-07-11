@@ -83,7 +83,6 @@ SDKs:
 - [{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}})
 {{- end}}
 
-Want your own self-generating profile page?   
-Check out [readme-scribe](https://github.com/muesli/readme-scribe)!
+Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
 <!-- comments will be preserved -->
