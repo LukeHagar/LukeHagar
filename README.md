@@ -104,7 +104,6 @@ SDKs:
 
 #### 👯 Recent followers
 
-- [Kostas](https://github.com/Kos-M)
 - [Cogito Ergo Sum](https://github.com/standardgalactic)
 - [Marc Hershey](https://github.com/marchershey)
 - [anhbtc6868](https://github.com/anhbtc)
@@ -114,6 +113,7 @@ SDKs:
 - [Tim Sekiguchi](https://github.com/tsekiguchi)
 - [Sagar Batchu](https://github.com/simplesagar)
 - [Marc Laventure](https://github.com/marclave)
+- [dannybloomfield](https://github.com/dannybloomfield)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
