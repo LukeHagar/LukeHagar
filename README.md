@@ -81,8 +81,8 @@ SDKs:
 
 ### 👷 Recent Contributions
 
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/redocly-split-repro](https://github.com/LukeHagar/redocly-split-repro) - 
 - [LukeHagar/profile-stats](https://github.com/LukeHagar/profile-stats) - An example repository for some of the great things you can do with GitHub profile automation
 - [speakeasy-api/sdk-hooks](https://github.com/speakeasy-api/sdk-hooks) - Examples of SDK hooks
