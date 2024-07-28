@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Trent Ward](https://github.com/Zemorath)
 - [Pablo](https://github.com/lasopablo)
 - [Cogito Ergo Sum](https://github.com/standardgalactic)
 - [Marc Hershey](https://github.com/marchershey)
@@ -113,7 +114,6 @@ SDKs:
 - [Sam Morozov](https://github.com/sammorozov)
 - [Tim Sekiguchi](https://github.com/tsekiguchi)
 - [Sagar Batchu](https://github.com/simplesagar)
-- [Marc Laventure](https://github.com/marclave)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
