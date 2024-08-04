@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [PAYDAY3](https://github.com/PAYDAY3)
 - [Trent Ward](https://github.com/Zemorath)
 - [Pablo](https://github.com/lasopablo)
 - [Cogito Ergo Sum](https://github.com/standardgalactic)
@@ -113,7 +114,6 @@ SDKs:
 - [Jacob Somer](https://github.com/jacobsomer)
 - [Sam Morozov](https://github.com/sammorozov)
 - [Tim Sekiguchi](https://github.com/tsekiguchi)
-- [Sagar Batchu](https://github.com/simplesagar)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
