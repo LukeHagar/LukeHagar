@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [David Mohundro](https://github.com/drmohundro)
 - [PAYDAY3](https://github.com/PAYDAY3)
 - [Trent Ward](https://github.com/Zemorath)
 - [Pablo](https://github.com/lasopablo)
@@ -113,7 +114,6 @@ SDKs:
 - [Michael Demarais](https://github.com/mikedemarais)
 - [Jacob Somer](https://github.com/jacobsomer)
 - [Sam Morozov](https://github.com/sammorozov)
-- [Tim Sekiguchi](https://github.com/tsekiguchi)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
