@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Adam Belko](https://github.com/adambelko)
 - [David Mohundro](https://github.com/drmohundro)
 - [PAYDAY3](https://github.com/PAYDAY3)
 - [Trent Ward](https://github.com/Zemorath)
@@ -113,7 +114,6 @@ SDKs:
 - [anhbtc6868](https://github.com/anhbtc)
 - [Michael Demarais](https://github.com/mikedemarais)
 - [Jacob Somer](https://github.com/jacobsomer)
-- [Sam Morozov](https://github.com/sammorozov)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
