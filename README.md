@@ -83,6 +83,7 @@ SDKs:
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
+- [speakeasy-api/openapi-reference-documentation](https://github.com/speakeasy-api/openapi-reference-documentation) - Best in class OpenAPI reference documentation
 - [comfy-deploy/comfy-deploy-python](https://github.com/comfy-deploy/comfy-deploy-python) - 
 - [LukeHagar/redocly-split-repro](https://github.com/LukeHagar/redocly-split-repro) - 
 - [LukeHagar/profile-stats](https://github.com/LukeHagar/profile-stats) - An example repository for some of the great things you can do with GitHub profile automation
@@ -93,14 +94,13 @@ SDKs:
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
-- [log10-io/log10py](https://github.com/log10-io/log10py) - 
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [log10-io/log10ts](https://github.com/log10-io/log10ts) - TypeScript SDK for the Log10 platform
 - [speakeasy-api/openai-api-specification](https://github.com/speakeasy-api/openai-api-specification) - A fork of the OpenAI OpenAPI Specification
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A set of SvelteKit adapters and examples
-- [speakeasy-api/openapi-reference-documentation](https://github.com/speakeasy-api/openapi-reference-documentation) - Best in class OpenAPI reference documentation
+- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 
 #### 👯 Recent followers
 
