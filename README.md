@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Coding.trick](https://github.com/Codingtrick0)
 - [Adam Belko](https://github.com/adambelko)
 - [David Mohundro](https://github.com/drmohundro)
 - [PAYDAY3](https://github.com/PAYDAY3)
@@ -113,7 +114,6 @@ SDKs:
 - [Marc Hershey](https://github.com/marchershey)
 - [anhbtc6868](https://github.com/anhbtc)
 - [Michael Demarais](https://github.com/mikedemarais)
-- [Jacob Somer](https://github.com/jacobsomer)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
