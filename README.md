@@ -83,6 +83,7 @@ SDKs:
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
@@ -92,7 +93,6 @@ SDKs:
 - [LukeHagar/redocly-split-repro](https://github.com/LukeHagar/redocly-split-repro) - 
 - [LukeHagar/profile-stats](https://github.com/LukeHagar/profile-stats) - An example repository for some of the great things you can do with GitHub profile automation
 - [speakeasy-api/sdk-hooks](https://github.com/speakeasy-api/sdk-hooks) - Examples of SDK hooks
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg) - An OpenAPI design studio
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
