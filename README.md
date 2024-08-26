@@ -73,11 +73,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/882) - feat: improve CLI help text for root, run, bump, configure, lint, ope…
 - [comfy-deploy/comfy-deploy-python](https://github.com/comfy-deploy/comfy-deploy-python/pull/3) - Migrate to PythonV2 SDK
 - [Redocly/redocly-cli](https://github.com/Redocly/redocly-cli/pull/1638) - fix: enable path parsing to account for root level paths
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg/pull/25) - Integrate schema generator
 - [log10-io/log10py](https://github.com/log10-io/log10py/pull/3) - Update OpenAI spec to be in sync with TS SDK changes
-- [log10-io/log10go](https://github.com/log10-io/log10go/pull/3) - Update OpenAI spec to be in sync with TS SDK changes
 
 ### 👷 Recent Contributions
 
