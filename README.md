@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Cornolio6981](https://github.com/Cornolio6981)
 - [Coding.trick](https://github.com/Codingtrick0)
 - [Adam Belko](https://github.com/adambelko)
 - [David Mohundro](https://github.com/drmohundro)
@@ -113,7 +114,6 @@ SDKs:
 - [Cogito Ergo Sum](https://github.com/standardgalactic)
 - [Marc Hershey](https://github.com/marchershey)
 - [anhbtc6868](https://github.com/anhbtc)
-- [Michael Demarais](https://github.com/mikedemarais)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
