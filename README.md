@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [オシリス](https://github.com/osiristape)
 - [Harvey](https://github.com/harveyrandall)
 - [Cornolio6981](https://github.com/Cornolio6981)
 - [Coding.trick](https://github.com/Codingtrick0)
@@ -113,7 +114,6 @@ SDKs:
 - [Trent Ward](https://github.com/Zemorath)
 - [Pablo](https://github.com/lasopablo)
 - [Cogito Ergo Sum](https://github.com/standardgalactic)
-- [Marc Hershey](https://github.com/marchershey)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
