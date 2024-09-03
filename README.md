@@ -91,6 +91,7 @@ SDKs:
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
 - [speakeasy-sdks/metronome-go-sdk](https://github.com/speakeasy-sdks/metronome-go-sdk) - Metronome Go SDK
 - [speakeasy-api/openapi-reference-documentation](https://github.com/speakeasy-api/openapi-reference-documentation) - Best in class OpenAPI reference documentation
+- [comfy-deploy/comfy-deploy-python](https://github.com/comfy-deploy/comfy-deploy-python) - 
 - [LukeHagar/redocly-split-repro](https://github.com/LukeHagar/redocly-split-repro) - 
 - [LukeHagar/profile-stats](https://github.com/LukeHagar/profile-stats) - An example repository for some of the great things you can do with GitHub profile automation
 - [speakeasy-api/sdk-hooks](https://github.com/speakeasy-api/sdk-hooks) - Examples of SDK hooks
@@ -100,7 +101,6 @@ SDKs:
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [log10-io/log10py](https://github.com/log10-io/log10py) - 
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
-- [log10-io/log10ts](https://github.com/log10-io/log10ts) - TypeScript SDK for the Log10 platform
 
 #### 👯 Recent followers
 
