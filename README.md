@@ -82,12 +82,12 @@ SDKs:
 ### 👷 Recent Contributions
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
 - [speakeasy-sdks/metronome-go-sdk](https://github.com/speakeasy-sdks/metronome-go-sdk) - Metronome Go SDK
 - [speakeasy-api/openapi-reference-documentation](https://github.com/speakeasy-api/openapi-reference-documentation) - Best in class OpenAPI reference documentation
