@@ -82,8 +82,8 @@ SDKs:
 ### 👷 Recent Contributions
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [longtao](https://github.com/eust-w)
 - [Dany Seifeddine ](https://github.com/Danyseifedine)
 - [オシリス](https://github.com/osiristape)
 - [Harvey](https://github.com/harveyrandall)
@@ -113,7 +114,6 @@ SDKs:
 - [David Mohundro](https://github.com/drmohundro)
 - [PAYDAY3](https://github.com/PAYDAY3)
 - [Trent Ward](https://github.com/Zemorath)
-- [Pablo](https://github.com/lasopablo)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
