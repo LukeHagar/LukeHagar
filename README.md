@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Dany Seifeddine ](https://github.com/Danyseifedine)
 - [オシリス](https://github.com/osiristape)
 - [Harvey](https://github.com/harveyrandall)
 - [Cornolio6981](https://github.com/Cornolio6981)
@@ -113,7 +114,6 @@ SDKs:
 - [PAYDAY3](https://github.com/PAYDAY3)
 - [Trent Ward](https://github.com/Zemorath)
 - [Pablo](https://github.com/lasopablo)
-- [Cogito Ergo Sum](https://github.com/standardgalactic)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
