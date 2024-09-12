@@ -81,17 +81,18 @@ SDKs:
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - 
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
-- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - 
+- [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
+- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [speakeasy-sdks/metronome-go-sdk](https://github.com/speakeasy-sdks/metronome-go-sdk) - Metronome Go SDK
@@ -100,7 +101,6 @@ SDKs:
 - [LukeHagar/redocly-split-repro](https://github.com/LukeHagar/redocly-split-repro) - 
 - [LukeHagar/profile-stats](https://github.com/LukeHagar/profile-stats) - An example repository for some of the great things you can do with GitHub profile automation
 - [speakeasy-api/sdk-hooks](https://github.com/speakeasy-api/sdk-hooks) - Examples of SDK hooks
-- [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg) - An OpenAPI design studio
 
 #### 👯 Recent followers
 
