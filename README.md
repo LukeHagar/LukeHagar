@@ -81,26 +81,26 @@ SDKs:
 
 ### 👷 Recent Contributions
 
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [speakeasy-sdks/metronome-go-sdk](https://github.com/speakeasy-sdks/metronome-go-sdk) - Metronome Go SDK
 - [speakeasy-api/openapi-reference-documentation](https://github.com/speakeasy-api/openapi-reference-documentation) - Best in class OpenAPI reference documentation
 - [comfy-deploy/comfy-deploy-python](https://github.com/comfy-deploy/comfy-deploy-python) - 
-- [LukeHagar/redocly-split-repro](https://github.com/LukeHagar/redocly-split-repro) - 
-- [LukeHagar/profile-stats](https://github.com/LukeHagar/profile-stats) - An example repository for some of the great things you can do with GitHub profile automation
 
 #### 👯 Recent followers
 
