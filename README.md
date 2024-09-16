@@ -83,15 +83,15 @@ SDKs:
 
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
-- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
@@ -106,7 +106,6 @@ SDKs:
 
 - [longtao](https://github.com/eust-w)
 - [Dany Seifeddine ](https://github.com/Danyseifedine)
-- [オシリス](https://github.com/osiristape)
 - [Harvey](https://github.com/harveyrandall)
 - [Cornolio6981](https://github.com/Cornolio6981)
 - [Coding.trick](https://github.com/Codingtrick0)
@@ -114,6 +113,7 @@ SDKs:
 - [David Mohundro](https://github.com/drmohundro)
 - [PAYDAY3](https://github.com/PAYDAY3)
 - [Trent Ward](https://github.com/Zemorath)
+- [Pablo](https://github.com/lasopablo)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
