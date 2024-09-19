@@ -82,11 +82,11 @@ SDKs:
 ### 👷 Recent Contributions
 
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [korur](https://github.com/korur)
 - [longtao](https://github.com/eust-w)
 - [Dany Seifeddine ](https://github.com/Danyseifedine)
 - [Harvey](https://github.com/harveyrandall)
@@ -113,7 +114,6 @@ SDKs:
 - [David Mohundro](https://github.com/drmohundro)
 - [PAYDAY3](https://github.com/PAYDAY3)
 - [Trent Ward](https://github.com/Zemorath)
-- [Pablo](https://github.com/lasopablo)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
