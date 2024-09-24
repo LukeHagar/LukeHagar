@@ -73,11 +73,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/libopenapi](https://github.com/speakeasy-api/libopenapi/pull/1) - Create document_interation_benchmark_test.go
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/958) - fix: go.mod replace directive for doctor goroutine issue
 - [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action/pull/166) - feat: adjust formatting for legibility in actions
 - [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action/pull/161) - fix: C# Publishing when running in `direct` mode
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/908) - fix: doc md generation
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/882) - feat: improve CLI help text for root, run, bump, configure, lint, ope…
 
 ### 👷 Recent Contributions
 
