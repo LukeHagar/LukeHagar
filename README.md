@@ -73,22 +73,23 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/972) - fix: fix ssh browser open issues, remove dep
+- [speakeasy-api/libopenapi](https://github.com/speakeasy-api/libopenapi/pull/2) - Benchmarking 
 - [speakeasy-api/libopenapi](https://github.com/speakeasy-api/libopenapi/pull/1) - Create document_interation_benchmark_test.go
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/958) - fix: go.mod replace directive for doctor goroutine issue
 - [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action/pull/166) - feat: adjust formatting for legibility in actions
-- [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action/pull/161) - fix: C# Publishing when running in `direct` mode
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/908) - fix: doc md generation
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
-- [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action) - Github action for Speakeasy Client SDK management
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Speakeasy CLI - Enterprise developer experience for your API
+- [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action) - Github action for Speakeasy Client SDK management
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
@@ -96,7 +97,6 @@ SDKs:
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
-- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/plex-docs](https://github.com/LukeHagar/plex-docs) - Open Source Plex Media Server API and SDK Documentation
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
