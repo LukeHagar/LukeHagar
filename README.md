@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Teddy Albon](https://github.com/tmalbonph)
 - [korur](https://github.com/korur)
 - [longtao](https://github.com/eust-w)
 - [Dany Seifeddine ](https://github.com/Danyseifedine)
@@ -113,7 +114,6 @@ SDKs:
 - [Adam Belko](https://github.com/adambelko)
 - [David Mohundro](https://github.com/drmohundro)
 - [PAYDAY3](https://github.com/PAYDAY3)
-- [Trent Ward](https://github.com/Zemorath)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
