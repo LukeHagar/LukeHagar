@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Denys Zhurba](https://github.com/seniordev1012)
 - [Teddy Albon](https://github.com/tmalbonph)
 - [korur](https://github.com/korur)
 - [longtao](https://github.com/eust-w)
@@ -113,7 +114,6 @@ SDKs:
 - [Coding.trick](https://github.com/Codingtrick0)
 - [Adam Belko](https://github.com/adambelko)
 - [David Mohundro](https://github.com/drmohundro)
-- [PAYDAY3](https://github.com/PAYDAY3)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
