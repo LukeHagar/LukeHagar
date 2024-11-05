@@ -73,11 +73,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [sveltejs/kit](https://github.com/sveltejs/kit/pull/12961) - Native support for Websockets, Webtransport by adding UPGRADE handler
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton/pull/2912) - adjusted order of head tags
 - [AmariRules/pokemonAPI-Amari](https://github.com/AmariRules/pokemonAPI-Amari/pull/2) - Update README.md
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/972) - fix: fix ssh browser open issues, remove dep
 - [speakeasy-api/libopenapi](https://github.com/speakeasy-api/libopenapi/pull/2) - Benchmarking 
-- [speakeasy-api/libopenapi](https://github.com/speakeasy-api/libopenapi/pull/1) - Create document_interation_benchmark_test.go
 
 ### 👷 Recent Contributions
 
