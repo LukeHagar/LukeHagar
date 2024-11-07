@@ -81,9 +81,9 @@ SDKs:
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
