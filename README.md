@@ -73,7 +73,7 @@ SDKs:
 
 ### 📈 Recent PRs
 
-- [sveltejs/kit](https://github.com/sveltejs/kit/pull/12973) - Native support for Websockets
+- [sveltejs/kit](https://github.com/sveltejs/kit/pull/12973) - feat: native support for Websockets
 - [sveltejs/kit](https://github.com/sveltejs/kit/pull/12961) - Native support for Websockets
 - [skeletonlabs/skeleton](https://github.com/skeletonlabs/skeleton/pull/2912) - adjusted order of head tags
 - [AmariRules/pokemonAPI-Amari](https://github.com/AmariRules/pokemonAPI-Amari/pull/2) - Update README.md
