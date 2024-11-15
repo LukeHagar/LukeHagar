@@ -73,11 +73,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1093) - feat: transform command to convert swagger specifications to OpenAPI …
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1094) - feat: format transform
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1093) - feat: swagger transform
 - [unjs/crossws](https://github.com/unjs/crossws/pull/91) - feat: support for throwables
 - [unjs/crossws](https://github.com/unjs/crossws/pull/90) - feat: add `accept` and `reject` functions to `upgrade` hook interface for more explicit auth flow
 - [sveltejs/kit](https://github.com/sveltejs/kit/pull/12973) - feat: native support for Websockets
-- [sveltejs/kit](https://github.com/sveltejs/kit/pull/12961) - Native support for Websockets
 
 ### 👷 Recent Contributions
 
