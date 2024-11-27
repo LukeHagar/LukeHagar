@@ -108,12 +108,12 @@ SDKs:
 - [pinchu](https://github.com/pinchu2414)
 - [Teddy Albon](https://github.com/tmalbonph)
 - [korur](https://github.com/korur)
-- [longtao](https://github.com/eust-w)
 - [Dany Seifeddine ](https://github.com/Danyseifedine)
 - [Harvey](https://github.com/harveyrandall)
 - [Cornolio6981](https://github.com/Cornolio6981)
 - [Coding.trick](https://github.com/Codingtrick0)
 - [Adam Belko](https://github.com/adambelko)
+- [David Mohundro](https://github.com/drmohundro)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
