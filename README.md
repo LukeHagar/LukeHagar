@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Federico](https://github.com/feder-cr)
 - [Yann](https://github.com/YannBirba)
 - [Umarov Ismoiljon](https://github.com/umaarov)
 - [pinchu](https://github.com/pinchu2414)
@@ -113,7 +114,6 @@ SDKs:
 - [Harvey](https://github.com/harveyrandall)
 - [Cornolio6981](https://github.com/Cornolio6981)
 - [Coding.trick](https://github.com/Codingtrick0)
-- [Adam Belko](https://github.com/adambelko)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
