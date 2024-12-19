@@ -73,11 +73,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1168) - feat: added normalize transform
 - [coollabsio/documentation-coolify](https://github.com/coollabsio/documentation-coolify/pull/75) - fix: Added missing parameters to patch operations
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1094) - feat: format transform
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1093) - feat: swagger transform
 - [unjs/crossws](https://github.com/unjs/crossws/pull/91) - feat: support for throwables
-- [unjs/crossws](https://github.com/unjs/crossws/pull/90) - feat: add `accept` and `reject` functions to `upgrade` hook interface for more explicit auth flow
 
 ### 👷 Recent Contributions
 
