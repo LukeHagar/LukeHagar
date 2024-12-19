@@ -81,9 +81,9 @@ SDKs:
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers and Contract Tests for your API. OpenAPI native. 
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [speakeasy-sdks/firehydrant-go-sdk](https://github.com/speakeasy-sdks/firehydrant-go-sdk) - 
@@ -104,7 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
-- [LandingKit](https://github.com/saasdesigner)
+- [Kyle Jacobs](https://github.com/saasdesigner)
 - [johnykes](https://github.com/johnykes)
 - [Federico](https://github.com/feder-cr)
 - [Yann](https://github.com/YannBirba)
