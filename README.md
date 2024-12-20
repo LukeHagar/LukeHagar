@@ -73,11 +73,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1177) - fix: bump sdk-gen-config
+- [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config/pull/73) - fix: corrected the tranform validation logic
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1176) - fix: bump sdk-gen-config for updated workflow transform validation
 - [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config/pull/72) - feat: update transform list
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1168) - feat: added normalize transform
-- [coollabsio/documentation-coolify](https://github.com/coollabsio/documentation-coolify/pull/75) - fix: Added missing parameters to patch operations
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1094) - feat: format transform
 
 ### 👷 Recent Contributions
 
@@ -85,12 +85,12 @@ SDKs:
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config) - 
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/http-ws-reference](https://github.com/LukeHagar/http-ws-reference) - 
 - [speakeasy-sdks/firehydrant-go-sdk](https://github.com/speakeasy-sdks/firehydrant-go-sdk) - 
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
-- [LukeHagar/baton](https://github.com/LukeHagar/baton) - 
 - [LukeHagar/theschemagen](https://github.com/LukeHagar/theschemagen) - Generate OpenAPI Schemas from JSON bodies, Now in GO!
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
@@ -100,7 +100,7 @@ SDKs:
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 
 #### 👯 Recent followers
 
