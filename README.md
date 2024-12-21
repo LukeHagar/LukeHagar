@@ -73,11 +73,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1178) - fix: register the transforms for us in workflows
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1177) - fix: bump sdk-gen-config
 - [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config/pull/73) - fix: corrected the tranform validation logic
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1176) - fix: bump sdk-gen-config for updated workflow transform validation
 - [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config/pull/72) - feat: update transform list
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1168) - feat: added normalize transform
 
 ### 👷 Recent Contributions
 
