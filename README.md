@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [CoreUnitNET](https://github.com/CoreUnitNET)
 - [johnykes](https://github.com/johnykes)
 - [Federico](https://github.com/feder-cr)
 - [Yann](https://github.com/YannBirba)
@@ -113,7 +114,6 @@ SDKs:
 - [korur](https://github.com/korur)
 - [Dany Seifeddine ](https://github.com/Danyseifedine)
 - [Harvey](https://github.com/harveyrandall)
-- [Cornolio6981](https://github.com/Cornolio6981)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
