@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [jioke1](https://github.com/jioke1)
 - [Waledsakr](https://github.com/Waledsakr)
 - [johnykes](https://github.com/johnykes)
 - [Federico](https://github.com/feder-cr)
@@ -113,7 +114,6 @@ SDKs:
 - [Teddy Albon](https://github.com/tmalbonph)
 - [korur](https://github.com/korur)
 - [Dany Seifeddine ](https://github.com/Danyseifedine)
-- [Harvey](https://github.com/harveyrandall)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
