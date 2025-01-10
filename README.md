@@ -95,7 +95,7 @@ SDKs:
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - Convert your JSON formatted responses from API calls into OpenAPI Definitions at the click of a button
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
-- [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action) - Github action for Speakeasy Client SDK management
+- [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action) - Github action for Speakeasy Client SDK Generation, Release and Publishing
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
