@@ -108,12 +108,12 @@ SDKs:
 - [jioke1](https://github.com/jioke1)
 - [Waledsakr](https://github.com/Waledsakr)
 - [johnykes](https://github.com/johnykes)
-- [Federico](https://github.com/feder-cr)
 - [Yann](https://github.com/YannBirba)
 - [Umarov Ismoiljon](https://github.com/umaarov)
 - [pinchu](https://github.com/pinchu2414)
 - [Teddy Albon](https://github.com/tmalbonph)
 - [korur](https://github.com/korur)
+- [Dany Seifeddine ](https://github.com/Danyseifedine)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
