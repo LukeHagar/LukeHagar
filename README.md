@@ -104,6 +104,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Prafull Anand](https://github.com/Anandprafull)
 - [IPQuery](https://github.com/ipqwery)
 - [jioke1](https://github.com/jioke1)
 - [Waledsakr](https://github.com/Waledsakr)
@@ -113,7 +114,6 @@ SDKs:
 - [pinchu](https://github.com/pinchu2414)
 - [Teddy Albon](https://github.com/tmalbonph)
 - [korur](https://github.com/korur)
-- [Dany Seifeddine ](https://github.com/Danyseifedine)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
