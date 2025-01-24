@@ -81,14 +81,14 @@ SDKs:
 
 ### 👷 Recent Contributions
 
-- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
+- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
-- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers and Contract Tests for your API. OpenAPI native. 
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
+- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config) - 
+- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [speakeasy-sdks/firehydrant-go-sdk](https://github.com/speakeasy-sdks/firehydrant-go-sdk) - 
 - [LukeHagar/theschemagen](https://github.com/LukeHagar/theschemagen) - Generate OpenAPI Schemas from JSON bodies, Now in GO!
@@ -98,12 +98,13 @@ SDKs:
 - [speakeasy-api/sdk-generation-action](https://github.com/speakeasy-api/sdk-generation-action) - Github action for Speakeasy Client SDK Generation, Release and Publishing
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 
 #### 👯 Recent followers
 
+- [tom42](https://github.com/go2tom42)
 - [Prafull Anand](https://github.com/Anandprafull)
 - [IPQuery](https://github.com/ipqwery)
 - [jioke1](https://github.com/jioke1)
@@ -113,7 +114,6 @@ SDKs:
 - [Umarov Ismoiljon](https://github.com/umaarov)
 - [pinchu](https://github.com/pinchu2414)
 - [Teddy Albon](https://github.com/tmalbonph)
-- [korur](https://github.com/korur)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
