@@ -19,6 +19,7 @@ I love open source, and developer tooling.
 ### Github Profile Stats Action
 
 A GitHub Action to generate a simple JSON file containing your GitHub profiles stats.
+
 [Repo](https://github.com/LukeHagar/stats-action) | [Marketplace Action](https://github.com/marketplace/actions/profile-stats) | [Template Repo](https://github.com/LukeHagar/stats) | [Graphic Generation Repo](https://github.com/LukeHagar/github-stats-remotion)
 
 ### OpenAPI Schema Generator
