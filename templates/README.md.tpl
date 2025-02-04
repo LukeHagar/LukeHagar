@@ -12,36 +12,24 @@ I love open source, and developer tooling.
 
 
 ## My sites
-- [My Portfolio](https://lukehagar.com/)
-- [My Bento](https://bento.me/lukehagar)
-- [LinkedIn](https://www.linkedin.com/in/lukehagar/)
-- [Dev.to](https://dev.to/lukehagar)
-- [The OpenAPI Guy Blog](https://openapiguy.dev)
+[My Portfolio](https://lukehagar.com/) | [My Bento](https://bento.me/lukehagar) | [LinkedIn](https://www.linkedin.com/in/lukehagar/) | [Dev.to](https://dev.to/lukehagar) | [The OpenAPI Guy Blog](https://openapiguy.dev)
 
-## My Projects
+## Some of my projects
 
 ### Github Profile Stats Action
 
 A GitHub Action to generate a simple JSON file containing your GitHub profiles stats.
-
-- [Repo](https://github.com/LukeHagar/stats-action)
-- [Marketplace Action](https://github.com/marketplace/actions/profile-stats)
-- [Template Repo](https://github.com/LukeHagar/stats)
-- [Graphic Generation Repo](https://github.com/LukeHagar/github-stats-remotion)
+[Repo](https://github.com/LukeHagar/stats-action) | [Marketplace Action](https://github.com/marketplace/actions/profile-stats) | [Template Repo](https://github.com/LukeHagar/stats) | [Graphic Generation Repo](https://github.com/LukeHagar/github-stats-remotion)
 
 ### OpenAPI Schema Generator
 
 A tool to generate OpenAPI schemas from JSON API responses.
-
-- [Repo](https://github.com/LukeHagar/openapi-definition-generator/)
-- [Site](https://oas-def-gen.lukehagar.com)
+[Repo](https://github.com/LukeHagar/openapi-definition-generator/) | [Site](https://oas-def-gen.lukehagar.com)
 
 ### OpenAPI Design Studio
 
 A visual editor for APIs using OpenAPI, built with Sveltekit.
-
-- [Repo](https://github.com/LukeHagar/OpenAPI.gg)
-- [Site](https://openapi.gg)
+[Repo](https://github.com/LukeHagar/OpenAPI.gg) | [Site](https://openapi.gg)
 
 ### Plex
 
