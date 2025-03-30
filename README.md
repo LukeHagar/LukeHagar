@@ -62,29 +62,29 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [unjs/crossws](https://github.com/unjs/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
+- [unjs/crossws](https://github.com/unjs/crossws/pull/125) - Testing a TS version downgrade out for SvelteKit compatibility
 - [unjs/crossws](https://github.com/unjs/crossws/pull/116) - Investigating CI/Lint type issues
 - [unjs/crossws](https://github.com/unjs/crossws/pull/113) - feat: allow throwing error with `.response` prop in `upgrade`
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1178) - fix: register the transforms for use in workflows
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1177) - fix: bump sdk-gen-config
-- [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config/pull/73) - fix: corrected the tranform validation logic
 
 ### 👷 Recent Contributions
 
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
-- [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
-- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
-- [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - 
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers and Contract Tests for your API. OpenAPI native. 
-- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
-- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
+- [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - 
+- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
+- [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
+- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
+- [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
+- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers and Contract Tests for your API. OpenAPI native. 
 - [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config) - 
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/.trunk](https://github.com/LukeHagar/.trunk) - Used by Trunk. Learn more at https://docs.trunk.io/code-quality/ci/get-started/github-integration
 - [LukeHagar/Coolify-TypeScript-SDK](https://github.com/LukeHagar/Coolify-TypeScript-SDK) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
-- [LukeHagar/http-ws-reference](https://github.com/LukeHagar/http-ws-reference) - 
+- [LukeHagar/http-ws-reference](https://github.com/LukeHagar/http-ws-reference) - A reference for WebSocket close codes and their closest HTTP equivilant
 - [AmariRules/pokemonAPI-Amari](https://github.com/AmariRules/pokemonAPI-Amari) - Creating a new pokemon API with example usage
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
 - [LukeHagar/baton](https://github.com/LukeHagar/baton) - 
@@ -93,16 +93,16 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Ziziou91](https://github.com/Ziziou91)
+- [Shihabdin  شهاب الدين ](https://github.com/d3j1x)
+- [Benno ](https://github.com/herodev1337)
+- [JJ Macías](https://github.com/jjmaciasdev)
+- [Triet Trinh](https://github.com/trinhminhtriet)
+- [Walker Lockard](https://github.com/walker-tx)
 - [tom42](https://github.com/go2tom42)
 - [Prafull Anand](https://github.com/Anandprafull)
-- [IPQuery](https://github.com/ipqwery)
 - [jioke1](https://github.com/jioke1)
 - [Waledsakr](https://github.com/Waledsakr)
-- [johnykes](https://github.com/johnykes)
-- [Yann](https://github.com/YannBirba)
-- [Umarov Ismoiljon](https://github.com/umaarov)
-- [pinchu](https://github.com/pinchu2414)
-- [Teddy Albon](https://github.com/tmalbonph)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
