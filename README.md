@@ -70,10 +70,16 @@ SDKs:
 
 ### 👷 Recent Contributions
 
+- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
+- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - 
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
@@ -84,12 +90,6 @@ SDKs:
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - An open source Plex Media Server API Specification
 - [LukeHagar/.trunk](https://github.com/LukeHagar/.trunk) - Used by Trunk. Learn more at https://docs.trunk.io/code-quality/ci/get-started/github-integration
 - [LukeHagar/Coolify-TypeScript-SDK](https://github.com/LukeHagar/Coolify-TypeScript-SDK) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
-- [LukeHagar/http-ws-reference](https://github.com/LukeHagar/http-ws-reference) - A reference for WebSocket close codes and their closest HTTP equivilant
-- [AmariRules/pokemonAPI-Amari](https://github.com/AmariRules/pokemonAPI-Amari) - Creating a new pokemon API with example usage
-- [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - SvelteKit Chrome extension template built with Skeleton
-- [LukeHagar/baton](https://github.com/LukeHagar/baton) - 
-- [LukeHagar/relay](https://github.com/LukeHagar/relay) - 
-- [LukeHagar/theschemagen](https://github.com/LukeHagar/theschemagen) - Generate OpenAPI Schemas from JSON bodies, Now in GO!
 
 #### 👯 Recent followers
 
