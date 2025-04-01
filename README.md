@@ -72,10 +72,10 @@ SDKs:
 
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
