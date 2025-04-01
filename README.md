@@ -81,7 +81,7 @@ SDKs:
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
-- [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - 
+- [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - a powerful API proxy and documentation generator that automatically creates OpenAPI specifications and HAR (HTTP Archive) recordings for any API you access through it.
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
 - [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
