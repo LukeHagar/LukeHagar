@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Ânōōp](https://github.com/wardin)
 - [Lucas](https://github.com/lulunac27a)
 - [Ziziou91](https://github.com/Ziziou91)
 - [Shihabdin  شهاب الدين ](https://github.com/d3j1x)
@@ -102,7 +103,6 @@ SDKs:
 - [Walker Lockard](https://github.com/walker-tx)
 - [tom42](https://github.com/go2tom42)
 - [Prafull Anand](https://github.com/Anandprafull)
-- [jioke1](https://github.com/jioke1)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
