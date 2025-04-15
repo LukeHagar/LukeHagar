@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [davido3574](https://github.com/davido3574)
 - [Ânōōp](https://github.com/wardin)
 - [Lucas](https://github.com/lulunac27a)
 - [Ziziou91](https://github.com/Ziziou91)
@@ -102,7 +103,6 @@ SDKs:
 - [Triet Trinh](https://github.com/trinhminhtriet)
 - [Walker Lockard](https://github.com/walker-tx)
 - [tom42](https://github.com/go2tom42)
-- [Prafull Anand](https://github.com/Anandprafull)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
