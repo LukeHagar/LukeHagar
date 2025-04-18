@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [FileDonkey](https://github.com/filedonkey)
 - [Nurlan Yusifli](https://github.com/yuskraft)
 - [davido3574](https://github.com/davido3574)
 - [Ânōōp](https://github.com/wardin)
@@ -102,7 +103,6 @@ SDKs:
 - [Benno ](https://github.com/herodev1337)
 - [JJ Macías](https://github.com/jjmaciasdev)
 - [Triet Trinh](https://github.com/trinhminhtriet)
-- [Walker Lockard](https://github.com/walker-tx)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
