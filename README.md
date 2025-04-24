@@ -62,10 +62,10 @@ SDKs:
 
 ### 📈 Recent PRs
 
-- [unjs/crossws](https://github.com/unjs/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
-- [unjs/crossws](https://github.com/unjs/crossws/pull/125) - Testing a TS version downgrade out for SvelteKit compatibility
-- [unjs/crossws](https://github.com/unjs/crossws/pull/116) - Investigating CI/Lint type issues
-- [unjs/crossws](https://github.com/unjs/crossws/pull/113) - feat: allow throwing error with `.response` prop in `upgrade`
+- [h3js/crossws](https://github.com/h3js/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
+- [h3js/crossws](https://github.com/h3js/crossws/pull/125) - Testing a TS version downgrade out for SvelteKit compatibility
+- [h3js/crossws](https://github.com/h3js/crossws/pull/116) - Investigating CI/Lint type issues
+- [h3js/crossws](https://github.com/h3js/crossws/pull/113) - feat: allow throwing error with `.response` prop in `upgrade`
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1178) - fix: register the transforms for use in workflows
 
 ### 👷 Recent Contributions
@@ -86,7 +86,7 @@ SDKs:
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
-- [unjs/crossws](https://github.com/unjs/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
+- [h3js/crossws](https://github.com/h3js/crossws) - 🔌   Cross-platform WebSocket Servers for Node.js, Deno, Bun and Cloudflare Workers.
 - [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy) - Build APIs your users love ❤️ with Speakeasy. ✨ Polished and type-safe SDKs. 🌐 Terraform providers and Contract Tests for your API. OpenAPI native. 
 - [speakeasy-api/sdk-gen-config](https://github.com/speakeasy-api/sdk-gen-config) - 
