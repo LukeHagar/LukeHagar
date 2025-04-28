@@ -62,11 +62,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [coollabsio/coolify](https://github.com/coollabsio/coolify/pull/5716) - fix: Homepage template: Default allowed hosts to the automatically configured domain
 - [h3js/crossws](https://github.com/h3js/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
 - [h3js/crossws](https://github.com/h3js/crossws/pull/125) - Testing a TS version downgrade out for SvelteKit compatibility
 - [h3js/crossws](https://github.com/h3js/crossws/pull/116) - Investigating CI/Lint type issues
 - [h3js/crossws](https://github.com/h3js/crossws/pull/113) - feat: allow throwing error with `.response` prop in `upgrade`
-- [speakeasy-api/speakeasy](https://github.com/speakeasy-api/speakeasy/pull/1178) - fix: register the transforms for use in workflows
 
 ### 👷 Recent Contributions
 
