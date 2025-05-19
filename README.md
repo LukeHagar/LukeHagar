@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [DaDa-00-1](https://github.com/DaDa-00-1)
 - [Connor](https://github.com/Connor9994)
 - [Nurlan Yusifli](https://github.com/yuskraft)
 - [davido3574](https://github.com/davido3574)
@@ -102,7 +103,6 @@ SDKs:
 - [Shihabdin  شهاب الدين ](https://github.com/d3j1x)
 - [Benno ](https://github.com/herodev1337)
 - [JJ Macías](https://github.com/jjmaciasdev)
-- [Walker Lockard](https://github.com/walker-tx)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
