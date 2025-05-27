@@ -62,16 +62,17 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [LukeHagar/Sassy](https://github.com/LukeHagar/Sassy/pull/1) - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
 - [coollabsio/coolify](https://github.com/coollabsio/coolify/pull/5716) - fix: Homepage template: Default allowed hosts to the automatically configured domain
 - [h3js/crossws](https://github.com/h3js/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
 - [h3js/crossws](https://github.com/h3js/crossws/pull/125) - Testing a TS version downgrade out for SvelteKit compatibility
 - [h3js/crossws](https://github.com/h3js/crossws/pull/116) - Investigating CI/Lint type issues
-- [h3js/crossws](https://github.com/h3js/crossws/pull/113) - feat: allow throwing error with `.response` prop in `upgrade`
 
 ### 👷 Recent Contributions
 
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/Sassy](https://github.com/LukeHagar/Sassy) - 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
 - [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [LukeHagar/stealth](https://github.com/LukeHagar/stealth) - 
@@ -83,13 +84,12 @@ SDKs:
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - a powerful API proxy and documentation generator that automatically creates OpenAPI specifications and HAR (HTTP Archive) recordings for any API you access through it.
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
-- [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API and SDK Documentation hosted on Mintlify
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 
 #### 👯 Recent followers
 
