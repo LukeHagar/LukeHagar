@@ -62,7 +62,7 @@ SDKs:
 
 ### 📈 Recent PRs
 
-- [LukeHagar/Sassy](https://github.com/LukeHagar/Sassy/pull/1) - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
+- [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey/pull/1) - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
 - [coollabsio/coolify](https://github.com/coollabsio/coolify/pull/5716) - fix: Homepage template: Default allowed hosts to the automatically configured domain
 - [h3js/crossws](https://github.com/h3js/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
 - [h3js/crossws](https://github.com/h3js/crossws/pull/125) - Testing a TS version downgrade out for SvelteKit compatibility
@@ -73,7 +73,7 @@ SDKs:
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - a tool for generating github stats gifs for your profiles readme
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - Github Profile Stats
-- [LukeHagar/Sassy](https://github.com/LukeHagar/Sassy) - 
+- [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey) - 
 - [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [LukeHagar/stealth](https://github.com/LukeHagar/stealth) - 
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
