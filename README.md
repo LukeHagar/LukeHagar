@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Marc Laventure](https://github.com/marclave)
 - [Jeremy](https://github.com/pawjwp)
 - [emeraldjava](https://github.com/emeraldjava)
 - [Connor](https://github.com/Connor9994)
@@ -102,7 +103,6 @@ SDKs:
 - [Lucas](https://github.com/lulunac27a)
 - [Ziziou91](https://github.com/Ziziou91)
 - [Shihabdin  شهاب الدين ](https://github.com/d3j1x)
-- [Benno ](https://github.com/herodev1337)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
