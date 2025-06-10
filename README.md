@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Marcos Viana](https://github.com/Maarcosv99)
 - [Marc Laventure](https://github.com/marclave)
 - [Jeremy](https://github.com/pawjwp)
 - [emeraldjava](https://github.com/emeraldjava)
@@ -102,7 +103,6 @@ SDKs:
 - [Ânōōp](https://github.com/wardin)
 - [Lucas](https://github.com/lulunac27a)
 - [Ziziou91](https://github.com/Ziziou91)
-- [Shihabdin  شهاب الدين ](https://github.com/d3j1x)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
