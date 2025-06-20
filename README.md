@@ -62,11 +62,11 @@ SDKs:
 
 ### 📈 Recent PRs
 
+- [appwrite/website](https://github.com/appwrite/website/pull/2131) - fix: Corrected broken URL
 - [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey/pull/1) - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
 - [coollabsio/coolify](https://github.com/coollabsio/coolify/pull/5716) - fix: Homepage template: Default allowed hosts to the automatically configured domain
 - [h3js/crossws](https://github.com/h3js/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
 - [h3js/crossws](https://github.com/h3js/crossws/pull/125) - Testing a TS version downgrade out for SvelteKit compatibility
-- [h3js/crossws](https://github.com/h3js/crossws/pull/116) - Investigating CI/Lint type issues
 
 ### 👷 Recent Contributions
 
