@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Bocaletto Luca](https://github.com/bocaletto-luca)
 - [Rayen Korbi](https://github.com/korbirayen)
 - [Marcos Viana](https://github.com/Maarcosv99)
 - [Marc Laventure](https://github.com/marclave)
@@ -102,7 +103,6 @@ SDKs:
 - [Nurlan Yusifli](https://github.com/yuskraft)
 - [davido3574](https://github.com/davido3574)
 - [Ânōōp](https://github.com/wardin)
-- [Lucas](https://github.com/lulunac27a)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
