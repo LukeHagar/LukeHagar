@@ -93,6 +93,7 @@ SDKs:
 
 #### 👯 Recent followers
 
+- [Johnathan Ludwig](https://github.com/johnathanludwig)
 - [Augie](https://github.com/AugusDogus)
 - [Bocaletto Luca](https://github.com/bocaletto-luca)
 - [Rayen Korbi](https://github.com/korbirayen)
@@ -102,7 +103,6 @@ SDKs:
 - [emeraldjava](https://github.com/emeraldjava)
 - [Connor](https://github.com/Connor9994)
 - [Nurlan Yusifli](https://github.com/yuskraft)
-- [davido3574](https://github.com/davido3574)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
