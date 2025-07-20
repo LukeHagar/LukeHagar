@@ -93,7 +93,6 @@ SDKs:
 
 #### 👯 Recent followers
 
-- [Byonanebye Arison](https://github.com/Arison99)
 - [jshailes](https://github.com/jshailes)
 - [Johnathan Ludwig](https://github.com/johnathanludwig)
 - [Augie](https://github.com/AugusDogus)
@@ -103,6 +102,7 @@ SDKs:
 - [Marc Laventure](https://github.com/marclave)
 - [Jeremy](https://github.com/pawjwp)
 - [emeraldjava](https://github.com/emeraldjava)
+- [Connor](https://github.com/Connor9994)
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
