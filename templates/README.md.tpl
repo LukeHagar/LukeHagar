@@ -23,6 +23,8 @@ Here are some of my favorite projects
 
 <div align="center">
 
+<br/>
+<br/>
 <b>SvelteKit</b>
 <br/>
 
