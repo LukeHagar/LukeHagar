@@ -10,8 +10,6 @@ I'm a Software Engineer based in Austin, Texas.
 
 I love Open Source, Developer Tooling, API Design, and all things Svelte.
 
-<hr/>
-
 Here are some of my sites
 
 [My Portfolio](https://lukehagar.com/) | [My Bento](https://bento.me/lukehagar) | [LinkedIn](https://www.linkedin.com/in/lukehagar/) | [Dev.to](https://dev.to/lukehagar) | [The OpenAPI Guy Blog](https://openapiguy.dev)
