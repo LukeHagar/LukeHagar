@@ -10,13 +10,15 @@ I'm a Software Engineer based in Austin, Texas.
 
 I love Open Source, Developer Tooling, API Design, and all things Svelte.
 
-Here are some of my sites:
+<hr/>
+
+Here are some of my sites
 
 [My Portfolio](https://lukehagar.com/) | [My Bento](https://bento.me/lukehagar) | [LinkedIn](https://www.linkedin.com/in/lukehagar/) | [Dev.to](https://dev.to/lukehagar) | [The OpenAPI Guy Blog](https://openapiguy.dev)
 
-Here are some of my favorite projects:
-
 <hr/>
+
+Here are some of my favorite projects
 
 </div>
 
@@ -295,7 +297,7 @@ Here are some of my favorite projects:
 
 </div>
 
-### 📜 Some of my recent Dev.to posts
+### 📜 My Recent Dev.to Posts
 
 - [The next generation of GitHub profile stats](https://dev.to/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
 - [Building a world-class suite of SDKs is easy with Speakeasy](https://dev.to/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
@@ -303,7 +305,7 @@ Here are some of my favorite projects:
 - [Scraping Archives of Nethys for fun and profit](https://dev.to/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3)
 - [Using Vercel Analytics with SvelteKit](https://dev.to/lukehagar/using-vercel-analytics-with-sveltekit-381j)
 
-### 📈 Recent PRs
+### 📈 My Recent PRs
 
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/12) - Swap to an implementation that uses `protocol.handle` for electron
 - [appwrite/website](https://github.com/appwrite/website/pull/2131) - fix: Corrected broken URL
@@ -311,7 +313,7 @@ Here are some of my favorite projects:
 - [coollabsio/coolify](https://github.com/coollabsio/coolify/pull/5716) - fix: Homepage template: Default allowed hosts to the automatically configured domain
 - [h3js/crossws](https://github.com/h3js/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
 
-### 👷 Recent Contributions
+### 👷 My Recent Contributions
 
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
@@ -336,7 +338,7 @@ Here are some of my favorite projects:
 
 <div align="center">
 
-#### 👯 Recent followers
+#### 👯 My Recent followers
 
 [jshailes](https://github.com/jshailes)
 [Johnathan Ludwig](https://github.com/johnathanludwig)
