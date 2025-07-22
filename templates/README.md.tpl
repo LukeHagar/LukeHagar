@@ -10,13 +10,15 @@ I'm a Software Engineer based in Austin, Texas.
 
 I love Open Source, Developer Tooling, API Design, and all things Svelte.
 
-Here are some of my sites:
+<hr/>
+
+Here are some of my sites
 
 [My Portfolio](https://lukehagar.com/) | [My Bento](https://bento.me/lukehagar) | [LinkedIn](https://www.linkedin.com/in/lukehagar/) | [Dev.to](https://dev.to/lukehagar) | [The OpenAPI Guy Blog](https://openapiguy.dev)
 
-Here are some of my favorite projects:
-
 <hr/>
+
+Here are some of my favorite projects
 
 </div>
 
@@ -295,26 +297,26 @@ Here are some of my favorite projects:
 
 </div>
 
-### 📜 Some of my recent Dev.to posts
+### 📜 My Recent Dev.to Posts
 {{range rss "https://dev.to/feed/lukehagar" 5}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-### 📈 Recent PRs
+### 📈 My Recent PRs
 {{range recentPullRequests 5}}
 - [{{.Repo.Name}}]({{.URL}}) - {{.Title}}
 {{- end}}
 
-### 👷 Recent Contributions
+### 👷 My Recent Contributions
 {{range recentContributions 20}}
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
 <div align="center">
 
-#### 👯 Recent followers
+#### 👯 My Recent followers
 {{range followers 10}}
-[{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}}) 
+[{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}})
 {{- end}}
 
 </div>
