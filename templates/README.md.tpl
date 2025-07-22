@@ -314,7 +314,7 @@ Here are some of my favorite projects:
 
 #### 👯 Recent followers
 {{range followers 10}}
-[{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}})
+[{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}}) 
 {{- end}}
 
 </div>
