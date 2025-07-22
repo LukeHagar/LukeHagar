@@ -25,7 +25,6 @@ Here are some of my favorite projects
 
 <b>SvelteKit</b>
 <br/>
-<br/>
 
 <a href="https://github.com/LukeHagar/Sveltey">
   <picture>
@@ -67,8 +66,9 @@ Here are some of my favorite projects
   </picture>
 </a>
 
-<b>GitHub Stats Automation</b>
 <br/>
+<br/>
+<b>GitHub Stats Automation</b>
 <br/>
 
 <a href="https://github.com/LukeHagar/stats-action">
@@ -111,10 +111,9 @@ Here are some of my favorite projects
   </picture>
 </a>
 
-   
-
-<b>OpenAPI Tooling</b>
 <br/>
+<br/>
+<b>OpenAPI Tooling</b>
 <br/>
 
 <a href="https://github.com/LukeHagar/arbiter">
@@ -157,9 +156,9 @@ Here are some of my favorite projects
   </picture>
 </a>
 
-
-<b>Plex</b>
 <br/>
+<br/>
+<b>Plex</b>
 <br/>
 
 <a href="https://github.com/LukeHagar/plex-api-spec">
