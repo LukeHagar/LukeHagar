@@ -310,10 +310,14 @@ Here are some of my favorite projects:
 - [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
 {{- end}}
 
+<div align="center">
+
 #### 👯 Recent followers
 {{range followers 10}}
-- [{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}})
+[{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}})
 {{- end}}
+
+</div>
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
