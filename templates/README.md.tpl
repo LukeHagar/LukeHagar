@@ -295,25 +295,64 @@ Here are some of my favorite projects:
 
 </div>
 
-### 📜 Some of my recent Dev.to posts
+<div align="center">
+
+<b>📜 Some of my recent Dev.to posts</b>
+<br/>
+<br/>
+
 {{range rss "https://dev.to/feed/lukehagar" 5}}
 - [{{.Title}}]({{.URL}})
 {{- end}}
 
-### 📈 Recent PRs
+</div>
+
+<div align="center">
+
+<b>📈 Recent PRs</b>
+<br/>
+<br/>
+
+<ul>
 {{range recentPullRequests 5}}
-- [{{.Repo.Name}}]({{.URL}}) - {{.Title}}
+<li>
+  <a href="{{.URL}}">{{.Repo.Name}}</a> - {{.Title}}
+</li>
 {{- end}}
+</ul>
 
-### 👷 Recent Contributions
+</div>
+
+<div align="center">
+
+<b>👷 Recent Contributions</b>
+<br/>
+<br/>
+
+<ul>
 {{range recentContributions 20}}
-- [{{.Repo.Name}}]({{.Repo.URL}}) - {{.Repo.Description}}
+<li>
+  <a href="{{.Repo.URL}}">{{.Repo.Name}}</a> - {{.Repo.Description}}
+</li>
+{{- end}}
+</ul>
+
+
+<div align="center">
+
+<b>👯 Recent followers</b>
+<br/>
+<br/>
+
+{{range followers 10}}
+<li>
+  <a href="{{.URL}}">{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}</a>
+</li>
 {{- end}}
 
-#### 👯 Recent followers
-{{range followers 10}}
-- [{{if .Name}}{{.Name}}{{else}}{{.Login}}{{end}}]({{.URL}})
-{{- end}}
+</ul>
+
+</div>
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
