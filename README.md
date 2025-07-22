@@ -295,7 +295,12 @@ Here are some of my favorite projects:
 
 </div>
 
-### 📜 Some of my recent Dev.to posts
+<div align="center">
+
+<b>📜 Some of my recent Dev.to posts</b>
+<br/>
+<br/>
+
 
 - [The next generation of GitHub profile stats](https://dev.to/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
 - [Building a world-class suite of SDKs is easy with Speakeasy](https://dev.to/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
@@ -303,49 +308,147 @@ Here are some of my favorite projects:
 - [Scraping Archives of Nethys for fun and profit](https://dev.to/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3)
 - [Using Vercel Analytics with SvelteKit](https://dev.to/lukehagar/using-vercel-analytics-with-sveltekit-381j)
 
-### 📈 Recent PRs
+</div>
 
-- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/12) - Swap to an implementation that uses `protocol.handle` for electron
-- [appwrite/website](https://github.com/appwrite/website/pull/2131) - fix: Corrected broken URL
-- [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey/pull/1) - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
-- [coollabsio/coolify](https://github.com/coollabsio/coolify/pull/5716) - fix: Homepage template: Default allowed hosts to the automatically configured domain
-- [h3js/crossws](https://github.com/h3js/crossws/pull/126) - Downgrading TypeScript version for compatibility with SvelteKit
+<div align="center">
 
-### 👷 Recent Contributions
+<b>📈 Recent PRs</b>
+<br/>
+<br/>
 
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
-- [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
-- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
-- [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - An easy to use SvelteKit Chrome extension template built with Svelte 5, Skeleton v3, and Tailwind v4
-- [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - 
-- [appwrite/website](https://github.com/appwrite/website) - The Appwrite website, docs and blog 🏠
-- [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey) - A modern, production-ready SaaS template built with SvelteKit 2, Svelte 5, Supabase, and Skeleton UI. Get your SaaS project up and running in hours, not months.
-- [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
-- [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
-- [LukeHagar/yotocol](https://github.com/LukeHagar/yotocol) - A command line tool for backing up yoto card data in bulk
-- [LukeHagar/Coolify-TypeScript-SDK](https://github.com/LukeHagar/Coolify-TypeScript-SDK) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
-- [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+<ul>
 
-#### 👯 Recent followers
+<li>
+  <a href="https://github.com/LukeHagar/sveltekit-adapters/pull/12">LukeHagar/sveltekit-adapters</a> - Swap to an implementation that uses `protocol.handle` for electron
+</li>
+<li>
+  <a href="https://github.com/appwrite/website/pull/2131">appwrite/website</a> - fix: Corrected broken URL
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/Sveltey/pull/1">LukeHagar/Sveltey</a> - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
+</li>
+<li>
+  <a href="https://github.com/coollabsio/coolify/pull/5716">coollabsio/coolify</a> - fix: Homepage template: Default allowed hosts to the automatically configured domain
+</li>
+<li>
+  <a href="https://github.com/h3js/crossws/pull/126">h3js/crossws</a> - Downgrading TypeScript version for compatibility with SvelteKit
+</li>
+</ul>
 
-- [jshailes](https://github.com/jshailes)
-- [Johnathan Ludwig](https://github.com/johnathanludwig)
-- [Augie](https://github.com/AugusDogus)
-- [Bocaletto Luca](https://github.com/bocaletto-luca)
-- [Rayen Korbi](https://github.com/korbirayen)
-- [Marcos Viana](https://github.com/Maarcosv99)
-- [Marc Laventure](https://github.com/marclave)
-- [Jeremy](https://github.com/pawjwp)
-- [emeraldjava](https://github.com/emeraldjava)
-- [Connor](https://github.com/Connor9994)
+</div>
+
+<div align="center">
+
+<b>👷 Recent Contributions</b>
+<br/>
+<br/>
+
+<ul>
+
+<li>
+  <a href="https://github.com/LukeHagar/github-stats-remotion">LukeHagar/github-stats-remotion</a> - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/pocketbase">LukeHagar/pocketbase</a> - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/stats">LukeHagar/stats</a> - A template repository for automatically collecting stats on your GitHub profile
+</li>
+<li>
+  <a href="https://github.com/sailpoint-oss/developer.sailpoint.com">sailpoint-oss/developer.sailpoint.com</a> - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/LukeHagar.com">LukeHagar/LukeHagar.com</a> - Open Source code for my personal site
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/sveltekit-extension-template">LukeHagar/sveltekit-extension-template</a> - An easy to use SvelteKit Chrome extension template built with Svelte 5, Skeleton v3, and Tailwind v4
+</li>
+<li>
+  <a href="https://github.com/sailpoint-oss/ui-development-kit">sailpoint-oss/ui-development-kit</a> - 
+</li>
+<li>
+  <a href="https://github.com/appwrite/website">appwrite/website</a> - The Appwrite website, docs and blog 🏠
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/Sveltey">LukeHagar/Sveltey</a> - A modern, production-ready SaaS template built with SvelteKit 2, Svelte 5, Supabase, and Skeleton UI. Get your SaaS project up and running in hours, not months.
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/Prowlarr-TS-SDK">LukeHagar/Prowlarr-TS-SDK</a> - 
+</li>
+<li>
+  <a href="https://github.com/sailpoint-oss/sailpoint-cli">sailpoint-oss/sailpoint-cli</a> - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/yotocol">LukeHagar/yotocol</a> - A command line tool for backing up yoto card data in bulk
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/Coolify-TypeScript-SDK">LukeHagar/Coolify-TypeScript-SDK</a> - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/arbiter">LukeHagar/arbiter</a> - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/plexcsharp">LukeHagar/plexcsharp</a> - An open source Plex Media Server C# SDK
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/plexjava">LukeHagar/plexjava</a> - An open source Plex Media Server Java SDK
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/plexjs">LukeHagar/plexjs</a> - A Typescript SDK for interacting with Plex Media Server
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/plexruby">LukeHagar/plexruby</a> - An open source Plex Media Server ruby SDK
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/plexpy">LukeHagar/plexpy</a> - An open source Plex Media Server python SDK
+</li>
+<li>
+  <a href="https://github.com/LukeHagar/plexswift">LukeHagar/plexswift</a> - An open source Plex Media Server Swift SDK
+</li>
+</ul>
+
+
+<div align="center">
+
+<b>👯 Recent followers</b>
+<br/>
+<br/>
+
+
+<li>
+  <a href="https://github.com/jshailes">jshailes</a>
+</li>
+<li>
+  <a href="https://github.com/johnathanludwig">Johnathan Ludwig</a>
+</li>
+<li>
+  <a href="https://github.com/AugusDogus">Augie</a>
+</li>
+<li>
+  <a href="https://github.com/bocaletto-luca">Bocaletto Luca</a>
+</li>
+<li>
+  <a href="https://github.com/korbirayen">Rayen Korbi</a>
+</li>
+<li>
+  <a href="https://github.com/Maarcosv99">Marcos Viana</a>
+</li>
+<li>
+  <a href="https://github.com/marclave">Marc Laventure</a>
+</li>
+<li>
+  <a href="https://github.com/pawjwp">Jeremy</a>
+</li>
+<li>
+  <a href="https://github.com/emeraldjava">emeraldjava</a>
+</li>
+<li>
+  <a href="https://github.com/Connor9994">Connor</a>
+</li>
+
+</ul>
+
+</div>
 
 Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
 
