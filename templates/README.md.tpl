@@ -16,12 +16,15 @@ Here are some of my sites
 
 <hr/>
 
-Here are some of my favorite projects
+<img src="https://algora.io/og/user/LukeHagar" />
+
+<hr/>
+
 
 </div>
 
-
 <div align="center">
+Here are some of my favorite projects
 
 <br/>
 <br/>
