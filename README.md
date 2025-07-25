@@ -16,6 +16,10 @@ Here are some of my sites
 
 <hr/>
 
+<img src="https://algora.io/og/user/LukeHagar" />
+
+<hr/>
+
 Here are some of my favorite projects
 
 </div>
