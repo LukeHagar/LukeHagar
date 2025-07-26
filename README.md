@@ -342,7 +342,6 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
-[Renzo F](https://github.com/rennf93)
 [jshailes](https://github.com/jshailes)
 [Johnathan Ludwig](https://github.com/johnathanludwig)
 [Augie](https://github.com/AugusDogus)
@@ -352,6 +351,7 @@ Here are some of my favorite projects
 [Marc Laventure](https://github.com/marclave)
 [Jeremy](https://github.com/pawjwp)
 [emeraldjava](https://github.com/emeraldjava)
+[Connor](https://github.com/Connor9994)
 
 </div>
 
