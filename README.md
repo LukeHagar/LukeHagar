@@ -317,6 +317,7 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
+- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
@@ -333,10 +334,9 @@ Here are some of my favorite projects
 - [LukeHagar/yotocol](https://github.com/LukeHagar/yotocol) - A command line tool for backing up yoto card data in bulk
 - [LukeHagar/Coolify-TypeScript-SDK](https://github.com/LukeHagar/Coolify-TypeScript-SDK) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 
 <div align="center">
 
