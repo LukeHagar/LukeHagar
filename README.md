@@ -321,6 +321,7 @@ Here are some of my favorite projects
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
+- [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
 - [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - A platform to take building Identity Security Cloud integrations to a whole new level
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - SvelteKit adapters for Electron and Appwrite (before Appwrite sites) and examples on how to use them
@@ -329,14 +330,13 @@ Here are some of my favorite projects
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - An easy to use SvelteKit Chrome extension template built with Svelte 5, Skeleton v3, and Tailwind v4
 - [appwrite/website](https://github.com/appwrite/website) - The Appwrite website, docs and blog 🏠
 - [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey) - A modern, production-ready SaaS template built with SvelteKit 2, Svelte 5, Supabase, and Skeleton UI. Get your SaaS project up and running in hours, not months.
-- [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
 - [LukeHagar/yotocol](https://github.com/LukeHagar/yotocol) - A command line tool for backing up yoto card data in bulk
 - [LukeHagar/Coolify-TypeScript-SDK](https://github.com/LukeHagar/Coolify-TypeScript-SDK) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 
 <div align="center">
 
