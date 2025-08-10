@@ -301,11 +301,11 @@ Here are some of my favorite projects
 
 ### 📜 My Recent Dev.to Posts
 
-- [The next generation of GitHub profile stats](https://forem.com/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
-- [Building a world-class suite of SDKs is easy with Speakeasy](https://forem.com/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
-- [Writing better Cobra CLI help messages with glamour](https://forem.com/lukehagar/writing-better-cobra-cli-help-messages-with-glamour-1525)
-- [Scraping Archives of Nethys for fun and profit](https://forem.com/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3)
-- [Using Vercel Analytics with SvelteKit](https://forem.com/lukehagar/using-vercel-analytics-with-sveltekit-381j)
+- [The next generation of GitHub profile stats](https://dev.to/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
+- [Building a world-class suite of SDKs is easy with Speakeasy](https://dev.to/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
+- [Writing better Cobra CLI help messages with glamour](https://dev.to/lukehagar/writing-better-cobra-cli-help-messages-with-glamour-1525)
+- [Scraping Archives of Nethys for fun and profit](https://dev.to/lukehagar/scraping-archives-of-nethys-for-fun-and-profit-3ll3)
+- [Using Vercel Analytics with SvelteKit](https://dev.to/lukehagar/using-vercel-analytics-with-sveltekit-381j)
 
 ### 📈 My Recent PRs
 
