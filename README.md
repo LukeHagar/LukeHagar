@@ -342,6 +342,7 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
+[levonk](https://github.com/levonk)
 [Ali Yaşar](https://github.com/helallao)
 [jshailes](https://github.com/jshailes)
 [Johnathan Ludwig](https://github.com/johnathanludwig)
@@ -351,7 +352,6 @@ Here are some of my favorite projects
 [Marcos Viana](https://github.com/Maarcosv99)
 [Marc Laventure](https://github.com/marclave)
 [Jeremy](https://github.com/pawjwp)
-[emeraldjava](https://github.com/emeraldjava)
 
 </div>
 
