@@ -319,9 +319,9 @@ Here are some of my favorite projects
 
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics (BigQuery → Postgres) with a SvelteKit UI and JSON API. Per‑package incremental ingestion, Redis‑backed dedupe, and Docker Compose stack (Postgres &#43; Redis &#43; app). Dev Container included. Replacement for pypistats.org at pypistats.dev.
-- [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
 - [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - A platform to take building Identity Security Cloud integrations to a whole new level
 - [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
@@ -336,7 +336,7 @@ Here are some of my favorite projects
 - [LukeHagar/yotocol](https://github.com/LukeHagar/yotocol) - A command line tool for backing up yoto card data in bulk
 - [LukeHagar/Coolify-TypeScript-SDK](https://github.com/LukeHagar/Coolify-TypeScript-SDK) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 
 <div align="center">
 
