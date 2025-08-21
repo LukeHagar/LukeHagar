@@ -317,9 +317,9 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics (BigQuery → Postgres) with a SvelteKit UI and JSON API. Per‑package incremental ingestion, Redis‑backed dedupe, and Docker Compose stack (Postgres &#43; Redis &#43; app). Dev Container included. Replacement for pypistats.org at pypistats.dev.
 - [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
@@ -342,6 +342,7 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
+[Byonanebye Arison](https://github.com/Arison99)
 [lrepo52](https://github.com/lrepo52)
 [Ali Yaşar](https://github.com/helallao)
 [jshailes](https://github.com/jshailes)
@@ -351,7 +352,6 @@ Here are some of my favorite projects
 [Rayen Korbi](https://github.com/korbirayen)
 [Marcos Viana](https://github.com/Maarcosv99)
 [Marc Laventure](https://github.com/marclave)
-[Jeremy](https://github.com/pawjwp)
 
 </div>
 
