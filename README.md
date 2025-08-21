@@ -342,7 +342,6 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
-[Byonanebye Arison](https://github.com/Arison99)
 [lrepo52](https://github.com/lrepo52)
 [Ali Yaşar](https://github.com/helallao)
 [jshailes](https://github.com/jshailes)
@@ -352,6 +351,7 @@ Here are some of my favorite projects
 [Rayen Korbi](https://github.com/korbirayen)
 [Marcos Viana](https://github.com/Maarcosv99)
 [Marc Laventure](https://github.com/marclave)
+[Jeremy](https://github.com/pawjwp)
 
 </div>
 
