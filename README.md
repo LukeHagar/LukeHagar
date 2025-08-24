@@ -309,17 +309,17 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [immich-app/immich](https://github.com/immich-app/immich/pull/21205) - Add support for custom headers to TS SDK
 - [LukeHagar/pypistats.org](https://github.com/LukeHagar/pypistats.org/pull/1) - Saving progress
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/12) - Swap to an implementation that uses `protocol.handle` for electron
 - [appwrite/website](https://github.com/appwrite/website/pull/2131) - fix: Corrected broken URL
 - [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey/pull/1) - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
-- [coollabsio/coolify](https://github.com/coollabsio/coolify/pull/5716) - fix: Homepage template: Default allowed hosts to the automatically configured domain
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics (BigQuery → Postgres) with a SvelteKit UI and JSON API. Per‑package incremental ingestion, Redis‑backed dedupe, and Docker Compose stack (Postgres &#43; Redis &#43; app). Dev Container included. Replacement for pypistats.org at pypistats.dev.
 - [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - A platform to take building Identity Security Cloud integrations to a whole new level
 - [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
