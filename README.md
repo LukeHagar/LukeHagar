@@ -309,7 +309,7 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
-- [immich-app/immich](https://github.com/immich-app/immich/pull/21205) - Add support for custom headers to TS SDK
+- [immich-app/immich](https://github.com/immich-app/immich/pull/21205) - feat: Add support for custom headers to TS SDK
 - [LukeHagar/pypistats.org](https://github.com/LukeHagar/pypistats.org/pull/1) - Saving progress
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/12) - Swap to an implementation that uses `protocol.handle` for electron
 - [appwrite/website](https://github.com/appwrite/website/pull/2131) - fix: Corrected broken URL
