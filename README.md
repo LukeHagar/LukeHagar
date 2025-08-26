@@ -319,17 +319,17 @@ Here are some of my favorite projects
 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
-- [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [sailpoint-oss/ui-development-kit](https://github.com/sailpoint-oss/ui-development-kit) - A platform to take building Identity Security Cloud integrations to a whole new level
+- [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics (BigQuery → Postgres) with a SvelteKit UI and JSON API. Per‑package incremental ingestion, Redis‑backed dedupe, and Docker Compose stack (Postgres &#43; Redis &#43; app). Dev Container included. Replacement for pypistats.org at pypistats.dev.
 - [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
-- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - SvelteKit adapters for Electron and Appwrite (before Appwrite sites) and examples on how to use them
-- [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A collection of SvelteKit adapters for various platforms and examples on how to use them
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [LukeHagar/sveltekit-extension-template](https://github.com/LukeHagar/sveltekit-extension-template) - An easy to use SvelteKit Chrome extension template built with Svelte 5, Skeleton v3, and Tailwind v4
 - [appwrite/website](https://github.com/appwrite/website) - The Appwrite website, docs and blog 🏠
