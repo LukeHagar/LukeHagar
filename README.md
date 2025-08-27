@@ -317,11 +317,11 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
 - [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
@@ -343,7 +343,6 @@ Here are some of my favorite projects
 #### 👯 My Recent followers
 
 [فريدمحمد النجاشي](https://github.com/b03073557)
-[lrepo52](https://github.com/lrepo52)
 [Ali Yaşar](https://github.com/helallao)
 [jshailes](https://github.com/jshailes)
 [Johnathan Ludwig](https://github.com/johnathanludwig)
@@ -352,6 +351,7 @@ Here are some of my favorite projects
 [Rayen Korbi](https://github.com/korbirayen)
 [Marcos Viana](https://github.com/Maarcosv99)
 [Marc Laventure](https://github.com/marclave)
+[Jeremy](https://github.com/pawjwp)
 
 </div>
 
