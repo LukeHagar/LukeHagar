@@ -309,11 +309,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/3) - Investigate webhook relay integration in SvelteKit
+- [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/2) - Investigate webhook relay integration in SvelteKit
 - [immich-app/immich](https://github.com/immich-app/immich/pull/21205) - feat: add support for custom headers to TS SDK
 - [LukeHagar/pypistats.org](https://github.com/LukeHagar/pypistats.org/pull/1) - Saving progress
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/12) - Swap to an implementation that uses `protocol.handle` for electron
-- [appwrite/website](https://github.com/appwrite/website/pull/2131) - fix: Corrected broken URL
-- [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey/pull/1) - feat: Initial SaaS template setup with SvelteKit, Supabase, and Skeleton
 
 ### 👷 My Recent Contributions
 
