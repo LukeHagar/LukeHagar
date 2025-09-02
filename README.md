@@ -309,11 +309,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/14) - Added mrmime
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/4) - Investigate webhook relay integration in SvelteKit
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/3) - Investigate webhook relay integration in SvelteKit
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/2) - Investigate webhook relay integration in SvelteKit
 - [immich-app/immich](https://github.com/immich-app/immich/pull/21205) - feat: add support for custom headers to TS SDK
-- [LukeHagar/pypistats.org](https://github.com/LukeHagar/pypistats.org/pull/1) - Saving progress
 
 ### 👷 My Recent Contributions
 
