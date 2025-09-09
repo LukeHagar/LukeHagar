@@ -342,6 +342,7 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
+[Eugene Westley Mwambacha](https://github.com/WestLee95)
 [lrepo52](https://github.com/lrepo52)
 [Slava](https://github.com/slavaGanzin)
 [فريدمحمد النجاشي](https://github.com/b03073557)
@@ -351,7 +352,6 @@ Here are some of my favorite projects
 [Augie](https://github.com/AugusDogus)
 [Bocaletto Luca](https://github.com/bocaletto-luca)
 [Rayen Korbi](https://github.com/korbirayen)
-[Marcos Viana](https://github.com/Maarcosv99)
 
 </div>
 
