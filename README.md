@@ -317,6 +317,7 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
+- [LukeHagar/slinky](https://github.com/LukeHagar/slinky) - GitHub Action to slink through your repository looking for dead links
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
@@ -327,8 +328,8 @@ Here are some of my favorite projects
 - [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
 - [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
-- [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
+- [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A collection of SvelteKit adapters for various platforms and examples on how to use them
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
@@ -336,7 +337,6 @@ Here are some of my favorite projects
 - [appwrite/website](https://github.com/appwrite/website) - The Appwrite website, docs and blog 🏠
 - [LukeHagar/Sveltey](https://github.com/LukeHagar/Sveltey) - A modern, production-ready SaaS template built with SvelteKit 2, Svelte 5, Supabase, and Skeleton UI. Get your SaaS project up and running in hours, not months.
 - [LukeHagar/yotocol](https://github.com/LukeHagar/yotocol) - A command line tool for backing up yoto card data in bulk
-- [LukeHagar/Coolify-TypeScript-SDK](https://github.com/LukeHagar/Coolify-TypeScript-SDK) - Developer-friendly &amp; type-safe Typescript SDK specifically catered to leverage the Coolify API.
 
 <div align="center">
 
