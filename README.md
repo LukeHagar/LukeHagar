@@ -346,12 +346,12 @@ Here are some of my favorite projects
 [levonk](https://github.com/levonk)
 [Slava](https://github.com/slavaGanzin)
 [فريدمحمد النجاشي](https://github.com/b03073557)
-[Ali Yaşar](https://github.com/helallao)
 [jshailes](https://github.com/jshailes)
 [Johnathan Ludwig](https://github.com/johnathanludwig)
 [Augie](https://github.com/AugusDogus)
 [Bocaletto Luca](https://github.com/bocaletto-luca)
 [Rayen Korbi](https://github.com/korbirayen)
+[Marcos Viana](https://github.com/Maarcosv99)
 
 </div>
 
