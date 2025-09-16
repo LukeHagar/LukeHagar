@@ -343,7 +343,6 @@ Here are some of my favorite projects
 #### 👯 My Recent followers
 
 [lrepo52](https://github.com/lrepo52)
-[levonk](https://github.com/levonk)
 [Slava](https://github.com/slavaGanzin)
 [فريدمحمد النجاشي](https://github.com/b03073557)
 [jshailes](https://github.com/jshailes)
@@ -352,6 +351,7 @@ Here are some of my favorite projects
 [Bocaletto Luca](https://github.com/bocaletto-luca)
 [Rayen Korbi](https://github.com/korbirayen)
 [Marcos Viana](https://github.com/Maarcosv99)
+[Marc Laventure](https://github.com/marclave)
 
 </div>
 
