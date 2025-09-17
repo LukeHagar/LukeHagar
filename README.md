@@ -317,9 +317,9 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/slinky](https://github.com/LukeHagar/slinky) - GitHub Action to slink through your repository looking for dead links
 - [LukeHagar/toasty](https://github.com/LukeHagar/toasty) - an OpenAPI design tool
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification (somewhat) maintained by the community
@@ -342,8 +342,6 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
-[Byonanebye Arison](https://github.com/Arison99)
-[lrepo52](https://github.com/lrepo52)
 [Slava](https://github.com/slavaGanzin)
 [فريدمحمد النجاشي](https://github.com/b03073557)
 [jshailes](https://github.com/jshailes)
@@ -352,6 +350,8 @@ Here are some of my favorite projects
 [Bocaletto Luca](https://github.com/bocaletto-luca)
 [Rayen Korbi](https://github.com/korbirayen)
 [Marcos Viana](https://github.com/Maarcosv99)
+[Marc Laventure](https://github.com/marclave)
+[Jeremy](https://github.com/pawjwp)
 
 </div>
 
