@@ -317,11 +317,11 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/slinky](https://github.com/LukeHagar/slinky) - GitHub Action to slink through your repository looking for dead links
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
+- [LukeHagar/slinky](https://github.com/LukeHagar/slinky) - GitHub Action to slink through your repository looking for dead links
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
 - [LukeHagar/toasty](https://github.com/LukeHagar/toasty) - an OpenAPI design tool
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification (somewhat) maintained by the community
@@ -329,8 +329,8 @@ Here are some of my favorite projects
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics
 - [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test) - Testing out subdomain handling on Coolify
 - [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
-- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
 - [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
@@ -342,7 +342,6 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
-[menzbaba](https://github.com/menzbaba)
 [Slava](https://github.com/slavaGanzin)
 [فريدمحمد النجاشي](https://github.com/b03073557)
 [jshailes](https://github.com/jshailes)
@@ -352,6 +351,7 @@ Here are some of my favorite projects
 [Rayen Korbi](https://github.com/korbirayen)
 [Marcos Viana](https://github.com/Maarcosv99)
 [Marc Laventure](https://github.com/marclave)
+[Jeremy](https://github.com/pawjwp)
 
 </div>
 
