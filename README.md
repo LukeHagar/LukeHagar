@@ -318,9 +318,10 @@ Here are some of my favorite projects
 ### 👷 My Recent Contributions
 
 - [LukeHagar/aperture](https://github.com/LukeHagar/aperture) - A VS Code plugin for linting OpenAPI files
+- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - 
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
 - [LukeHagar/slinky](https://github.com/LukeHagar/slinky) - GitHub Action to slink through your repository looking for dead links
 - [sailpoint-oss/developer.sailpoint.com](https://github.com/sailpoint-oss/developer.sailpoint.com) - The codebase that makes up developer.sailpoint.com, including developer documentation. This codebase is open source and welcomes contributions.
@@ -336,7 +337,6 @@ Here are some of my favorite projects
 - [LukeHagar/Prowlarr-TS-SDK](https://github.com/LukeHagar/Prowlarr-TS-SDK) - 
 - [sailpoint-oss/sailpoint-cli](https://github.com/sailpoint-oss/sailpoint-cli) - The SailPoint Command Line Interface (CLI) makes it easy to interact with SailPoint&#39;s SaaS Platform in a programmatic way. Many functions that use to be accomplished through tools like Postman or from custom scripts can now be done directly on the command line with minimal setup.
 - [LukeHagar/arbiter](https://github.com/LukeHagar/arbiter) - A powerful API proxy that automatically documents your API with OpenAPI and HAR recordings
-- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A collection of SvelteKit adapters for various platforms and examples on how to use them
 
 <div align="center">
 
