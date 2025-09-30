@@ -317,10 +317,10 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
 - [LukeHagar/Dokploy-ts-sdk](https://github.com/LukeHagar/Dokploy-ts-sdk) - 
 - [LukeHagar/aperture](https://github.com/LukeHagar/aperture) - A VS Code plugin for linting OpenAPI files
