@@ -317,9 +317,9 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
 - [LukeHagar/Dokploy-ts-sdk](https://github.com/LukeHagar/Dokploy-ts-sdk) - 
@@ -342,7 +342,6 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
-[lrepo52](https://github.com/lrepo52)
 [Slava](https://github.com/slavaGanzin)
 [فريدمحمد النجاشي](https://github.com/b03073557)
 [jshailes](https://github.com/jshailes)
@@ -352,6 +351,7 @@ Here are some of my favorite projects
 [Rayen Korbi](https://github.com/korbirayen)
 [Marcos Viana](https://github.com/Maarcosv99)
 [Marc Laventure](https://github.com/marclave)
+[Jeremy](https://github.com/pawjwp)
 
 </div>
 
