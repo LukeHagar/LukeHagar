@@ -16,11 +16,6 @@ Here are some of my sites
 
 <hr/>
 
-<img src="https://algora.io/og/user/LukeHagar" />
-
-<hr/>
-
-
 </div>
 
 <div align="center">
