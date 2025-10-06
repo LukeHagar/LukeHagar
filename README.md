@@ -312,13 +312,13 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/scalar-cheatsheet](https://github.com/LukeHagar/scalar-cheatsheet) - A YAML Block Scalar cheat sheet
 - [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
-- [LukeHagar/varsity](https://github.com/LukeHagar/varsity) - An OpenAPI parsing and validation framework
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
+- [LukeHagar/varsity](https://github.com/LukeHagar/varsity) - An OpenAPI parsing and validation framework
 - [LukeHagar/Dokploy-ts-sdk](https://github.com/LukeHagar/Dokploy-ts-sdk) - 
 - [LukeHagar/aperture](https://github.com/LukeHagar/aperture) - A VS Code plugin for linting OpenAPI files
 - [LukeHagar/slinky](https://github.com/LukeHagar/slinky) - GitHub Action to slink through your repository looking for dead links
@@ -330,8 +330,8 @@ Here are some of my favorite projects
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics
 - [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test) - Testing out subdomain handling on Coolify
 - [LukeHagar/usage-statistics](https://github.com/LukeHagar/usage-statistics) - 
-- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 - [immich-app/immich](https://github.com/immich-app/immich) - High performance self-hosted photo and video management solution.
+- [sailpoint-oss/api-specs](https://github.com/sailpoint-oss/api-specs) - This repo houses the API specifications for all SailPoint services.
 
 <div align="center">
 
