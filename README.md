@@ -304,11 +304,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [better-auth/better-auth](https://github.com/better-auth/better-auth/pull/5264) - Fix spelling and capitalization of &#39;OAuth&#39; in documentation
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/14) - Added mrmime
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/4) - Investigate webhook relay integration in SvelteKit
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/3) - Investigate webhook relay integration in SvelteKit
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/2) - Investigate webhook relay integration in SvelteKit
-- [immich-app/immich](https://github.com/immich-app/immich/pull/21205) - feat: add support for custom headers to TS SDK
 
 ### 👷 My Recent Contributions
 
