@@ -304,7 +304,7 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
-- [better-auth/better-auth](https://github.com/better-auth/better-auth/pull/5264) - Fix spelling and capitalization of &#39;OAuth&#39; in documentation
+- [better-auth/better-auth](https://github.com/better-auth/better-auth/pull/5264) - docs: fix spelling and capitalization of &#39;OAuth&#39; 
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/14) - Added mrmime
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/4) - Investigate webhook relay integration in SvelteKit
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/3) - Investigate webhook relay integration in SvelteKit
@@ -312,26 +312,26 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification maintained by the community
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
-- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification maintained by the community
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A collection of SvelteKit adapters for various platforms and examples on how to use them
 - [LukeHagar/scalar-cheatsheet](https://github.com/LukeHagar/scalar-cheatsheet) - A YAML Block Scalar cheat sheet
-- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
 - [LukeHagar/varsity](https://github.com/LukeHagar/varsity) - An OpenAPI parsing and validation framework
 - [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
+- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
 - [LukeHagar/Dokploy-ts-sdk](https://github.com/LukeHagar/Dokploy-ts-sdk) - 
 - [LukeHagar/aperture](https://github.com/LukeHagar/aperture) - A VS Code plugin for linting OpenAPI files
-- [LukeHagar/slinky](https://github.com/LukeHagar/slinky) - GitHub Action to slink through your repository looking for dead links
 
 <div align="center">
 
