@@ -337,6 +337,7 @@ Here are some of my favorite projects
 
 #### 👯 My Recent followers
 
+[mcollard0](https://github.com/mcollard0)
 [Ali Yaşar](https://github.com/helallao)
 [Jeff Carpenter](https://github.com/JeffCarpenter)
 [Slava](https://github.com/slavaGanzin)
@@ -346,7 +347,6 @@ Here are some of my favorite projects
 [Augie](https://github.com/AugusDogus)
 [Bocaletto Luca](https://github.com/bocaletto-luca)
 [Rayen Korbi](https://github.com/korbirayen)
-[Marcos Viana](https://github.com/Maarcosv99)
 
 </div>
 
