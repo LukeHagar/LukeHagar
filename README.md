@@ -304,11 +304,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator/pull/5) - Configure project for railpack deployment
 - [better-auth/better-auth](https://github.com/better-auth/better-auth/pull/5264) - docs: fix spelling and capitalization of &#39;OAuth&#39; 
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/14) - Added mrmime
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/4) - Investigate webhook relay integration in SvelteKit
 - [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/3) - Investigate webhook relay integration in SvelteKit
-- [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/2) - Investigate webhook relay integration in SvelteKit
 
 ### 👷 My Recent Contributions
 
