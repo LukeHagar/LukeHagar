@@ -304,34 +304,34 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
-- [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator/pull/5) - Configure project for railpack deployment
-- [better-auth/better-auth](https://github.com/better-auth/better-auth/pull/5264) - docs: fix spelling and capitalization of &#39;OAuth&#39; 
-- [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters/pull/14) - Added mrmime
-- [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/4) - Investigate webhook relay integration in SvelteKit
-- [LukeHagar/relay](https://github.com/LukeHagar/relay/pull/3) - Investigate webhook relay integration in SvelteKit
+- [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg/pull/27) - Migrate to bun with railpack
+- [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test/pull/2) - Migrate to bun and railpack deploy
+- [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev/pull/2) - Deploy project with railpack
+- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com/pull/18) - Add railpack deployment support
+- [LukeHagar/jsdoc-cheatsheet](https://github.com/LukeHagar/jsdoc-cheatsheet/pull/2) - Add railpack deployment scripts to package.json
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg) - An OpenAPI design studio
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - A simple too to convert API responses into OpenAPI Definitions at the click of a button
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A collection of SvelteKit adapters for various platforms and examples on how to use them
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
+- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
+- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification maintained by the community
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
 - [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
-- [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification maintained by the community
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
-- [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
-- [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
-- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
+- [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
 - [LukeHagar/scalar-cheatsheet](https://github.com/LukeHagar/scalar-cheatsheet) - A YAML Block Scalar cheat sheet
 - [LukeHagar/openapi-types](https://github.com/LukeHagar/openapi-types) - OpenAPI types for the modern developer
-- [LukeHagar/varsity](https://github.com/LukeHagar/varsity) - An OpenAPI parsing and validation framework
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
-- [LukeHagar/Dokploy-ts-sdk](https://github.com/LukeHagar/Dokploy-ts-sdk) - 
 
 <div align="center">
 
