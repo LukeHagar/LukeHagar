@@ -312,26 +312,26 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
-- [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test) - Testing out subdomain handling on Coolify
+- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg) - An OpenAPI design studio
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - A simple too to convert API responses into OpenAPI Definitions at the click of a button
-- [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
+- [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics
+- [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test) - Testing out subdomain handling on Coolify
 - [LukeHagar/sveltekit-adapters](https://github.com/LukeHagar/sveltekit-adapters) - A collection of SvelteKit adapters for various platforms and examples on how to use them
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com) - Open Source code for my personal site
 - [better-auth/better-auth](https://github.com/better-auth/better-auth) - The most comprehensive authentication framework for TypeScript
-- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
-- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
 - [LukeHagar/plexcsharp](https://github.com/LukeHagar/plexcsharp) - An open source Plex Media Server C# SDK
+- [LukeHagar/plexswift](https://github.com/LukeHagar/plexswift) - An open source Plex Media Server Swift SDK
+- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
 - [LukeHagar/plexphp](https://github.com/LukeHagar/plexphp) - An open source Plex Media Server php SDK
+- [LukeHagar/plexpy](https://github.com/LukeHagar/plexpy) - An open source Plex Media Server python SDK
 - [LukeHagar/plexjava](https://github.com/LukeHagar/plexjava) - An open source Plex Media Server Java SDK
 - [LukeHagar/plex-api-spec](https://github.com/LukeHagar/plex-api-spec) - A Plex Media Server OpenAPI Specification maintained by the community
-- [LukeHagar/plexruby](https://github.com/LukeHagar/plexruby) - An open source Plex Media Server ruby SDK
-- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 - [LukeHagar/plexjs](https://github.com/LukeHagar/plexjs) - A Typescript SDK for interacting with Plex Media Server
+- [LukeHagar/plexgo](https://github.com/LukeHagar/plexgo) - An open source Plex Media Server Golang SDK
 - [LukeHagar/scalar-cheatsheet](https://github.com/LukeHagar/scalar-cheatsheet) - A YAML Block Scalar cheat sheet
-- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
 
 <div align="center">
 
