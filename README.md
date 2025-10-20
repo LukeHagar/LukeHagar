@@ -304,11 +304,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [Dokploy/dokploy](https://github.com/Dokploy/dokploy/pull/2859) - feat: add support for wildcard domains
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg/pull/27) - Migrate to bun with railpack
 - [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test/pull/2) - Migrate to bun and railpack deploy
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev/pull/2) - Deploy project with railpack
 - [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com/pull/18) - Add railpack deployment support
-- [LukeHagar/jsdoc-cheatsheet](https://github.com/LukeHagar/jsdoc-cheatsheet/pull/2) - Add railpack deployment scripts to package.json
 
 ### 👷 My Recent Contributions
 
