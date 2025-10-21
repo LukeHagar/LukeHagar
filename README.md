@@ -313,10 +313,10 @@ Here are some of my favorite projects
 ### 👷 My Recent Contributions
 
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
-- [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics
-- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
 - [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
+- [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
+- [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev) - On-demand PyPI download analytics
+- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi) - A prettier plugin to organize OpenAPI files for human readability
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg) - An OpenAPI design studio
 - [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test) - Testing out subdomain handling on Coolify
 - [LukeHagar/openapi-definition-generator](https://github.com/LukeHagar/openapi-definition-generator) - A simple too to convert API responses into OpenAPI Definitions at the click of a button
