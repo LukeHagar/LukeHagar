@@ -304,11 +304,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [basecamp/omarchy](https://github.com/basecamp/omarchy/pull/2686) - feat(default browser): add helpers to make changing the default brows…
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy/pull/2859) - feat: add support for wildcard domains
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg/pull/27) - Migrate to bun with railpack
 - [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test/pull/2) - Migrate to bun and railpack deploy
 - [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev/pull/2) - Deploy project with railpack
-- [LukeHagar/LukeHagar.com](https://github.com/LukeHagar/LukeHagar.com/pull/18) - Add railpack deployment support
 
 ### 👷 My Recent Contributions
 
