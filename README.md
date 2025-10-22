@@ -304,7 +304,7 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
-- [basecamp/omarchy](https://github.com/basecamp/omarchy/pull/2686) - feat(default browser): add helpers to make changing the default brows…
+- [basecamp/omarchy](https://github.com/basecamp/omarchy/pull/2686) - feat(browser): easily install additional browsers
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy/pull/2859) - feat: add support for wildcard domains
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg/pull/27) - Migrate to bun with railpack
 - [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test/pull/2) - Migrate to bun and railpack deploy
