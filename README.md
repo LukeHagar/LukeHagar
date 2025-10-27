@@ -304,11 +304,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [get-convex/polar](https://github.com/get-convex/polar/pull/23) - Update import statements to include .js extension
 - [basecamp/omarchy](https://github.com/basecamp/omarchy/pull/2686) - feat(browser): easily install additional browsers
 - [Dokploy/dokploy](https://github.com/Dokploy/dokploy/pull/2859) - feat: add support for wildcard domains
 - [LukeHagar/OpenAPI.gg](https://github.com/LukeHagar/OpenAPI.gg/pull/27) - Migrate to bun with railpack
 - [LukeHagar/subdomain-test](https://github.com/LukeHagar/subdomain-test/pull/2) - Migrate to bun and railpack deploy
-- [LukeHagar/pypistats.dev](https://github.com/LukeHagar/pypistats.dev/pull/2) - Deploy project with railpack
 
 ### 👷 My Recent Contributions
 
