@@ -304,11 +304,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi/pull/3) - chore: update dependencies and full integrate markdown formatting wit…
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi/pull/2) - Formatting the GFM
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi/pull/1) - Correcting tests and atomic file support
 - [get-convex/polar](https://github.com/get-convex/polar/pull/23) - Update import statements to include .js extension
 - [basecamp/omarchy](https://github.com/basecamp/omarchy/pull/2686) - feat(browser): easily install additional browsers
-- [Dokploy/dokploy](https://github.com/Dokploy/dokploy/pull/2859) - feat: add support for wildcard domains
 
 ### 👷 My Recent Contributions
 
