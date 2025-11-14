@@ -304,11 +304,11 @@ Here are some of my favorite projects
 
 ### 📈 My Recent PRs
 
+- [LukeHagar/slinky](https://github.com/LukeHagar/slinky/pull/1) - testing some workflow optimizations
 - [LukeHagar/omarchy](https://github.com/LukeHagar/omarchy/pull/2) - Sync fork:branch with Dev
 - [LukeHagar/omarchy](https://github.com/LukeHagar/omarchy/pull/1) - Update branch with current origin:Dev
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi/pull/3) - chore: update dependencies and full integrate markdown formatting wit…
 - [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi/pull/2) - Formatting the GFM
-- [LukeHagar/prettier-plugin-openapi](https://github.com/LukeHagar/prettier-plugin-openapi/pull/1) - Correcting tests and atomic file support
 
 ### 👷 My Recent Contributions
 
