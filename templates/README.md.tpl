@@ -318,6 +318,6 @@ Here are some of my favorite projects
 
 </div>
 
-Want your own profile stats? Check out this [example repo](https://github.com/LukeHagar/profile-stats)
+Want your own profile stats? Check out this [guide](https://github.com/LukeHagar/Awesome-GitHub-Profile)
 
 <!-- comments will be preserved -->
