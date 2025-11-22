@@ -296,11 +296,11 @@ Here are some of my favorite projects
 
 ### 📜 My Recent Dev.to Posts
 
-- [Deploy SvelteKit node servers with docker](https://dev.to/lukehagar/deploy-sveltekit-node-servers-with-docker-1ep7)
-- [Coolify is the best thing for Homelabs since Fiber](https://dev.to/lukehagar/coolify-is-the-best-thing-for-homelabs-since-fiber-1kb5)
-- [The next generation of GitHub profile stats](https://dev.to/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
-- [Building a world-class suite of SDKs is easy with Speakeasy](https://dev.to/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
-- [Writing better Cobra CLI help messages with glamour](https://dev.to/lukehagar/writing-better-cobra-cli-help-messages-with-glamour-1525)
+- [Deploy SvelteKit node servers with docker](https://golf.forem.com/lukehagar/deploy-sveltekit-node-servers-with-docker-1ep7)
+- [Coolify is the best thing for Homelabs since Fiber](https://golf.forem.com/lukehagar/coolify-is-the-best-thing-for-homelabs-since-fiber-1kb5)
+- [The next generation of GitHub profile stats](https://golf.forem.com/lukehagar/the-next-generation-of-github-profile-stats-1nh8)
+- [Building a world-class suite of SDKs is easy with Speakeasy](https://golf.forem.com/lukehagar/building-a-world-class-suite-of-sdks-is-easy-with-speakeasy-37ba)
+- [Writing better Cobra CLI help messages with glamour](https://golf.forem.com/lukehagar/writing-better-cobra-cli-help-messages-with-glamour-1525)
 
 ### 📈 My Recent PRs
 
