@@ -312,9 +312,9 @@ Here are some of my favorite projects
 
 ### 👷 My Recent Contributions
 
+- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/github-stats-remotion](https://github.com/LukeHagar/github-stats-remotion) - A remotion GitHub action for generating readme profile gifs of your GitHub stats
 - [LukeHagar/pocketbase](https://github.com/LukeHagar/pocketbase) - A bit of community automation to keep a DockerHub image of pocketbase always up to date
-- [LukeHagar/stats](https://github.com/LukeHagar/stats) - A template repository for automatically collecting stats on your GitHub profile
 - [LukeHagar/plex-mintlify-docs](https://github.com/LukeHagar/plex-mintlify-docs) - Open Source Plex Media Server API Documentation
 - [LukeHagar/parke.dev](https://github.com/LukeHagar/parke.dev) - A new set of personal sites
 - [LukeHagar/Awesome-GitHub-Profile](https://github.com/LukeHagar/Awesome-GitHub-Profile) - An example repository for some of the great things you can do with GitHub profile automation
