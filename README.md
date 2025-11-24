@@ -339,7 +339,6 @@ Here are some of my favorite projects
 
 [Seckin Yasar](https://github.com/seckinyasar)
 [mcollard0](https://github.com/mcollard0)
-[Ali Yaşar](https://github.com/helallao)
 [Jeff Carpenter](https://github.com/JeffCarpenter)
 [Slava](https://github.com/slavaGanzin)
 [فريدمحمد النجاشي](https://github.com/b03073557)
@@ -347,6 +346,7 @@ Here are some of my favorite projects
 [Johnathan Ludwig](https://github.com/johnathanludwig)
 [Augie](https://github.com/AugusDogus)
 [Bocaletto Luca](https://github.com/bocaletto-luca)
+[Rayen Korbi](https://github.com/korbirayen)
 
 </div>
 
