@@ -1,5 +1,5 @@
 <div align="center">
-   <img src="https://raw.githubusercontent.com/LukeHagar/github-stats-remotion/main/out/readme.gif">
+   <img src="https://githubstats.plygrnd.org/api/image/LukeHagar/readme-dark-waves">
 </div>
 
 <div align="center">
